@@ -1,0 +1,2201 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3426pt" height="1545pt" viewBox="0.00 0.00 3426.12 1544.60">
+<g id="graph0" class="graph" transform="translate(4,1540.5999755859375) scale(1)" data-name="DSP">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-1540.6 3422.12,-1540.6 3422.12,4 -4,4" style=""/>
+<!-- 1 -->
+<g id="node1" class="node" pointer-events="visible" data-name="1">
+
+<ellipse fill="black" stroke="black" cx="590.89" cy="-1377.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Iron Ingot -->
+<g id="node3" class="node" pointer-events="visible" data-name="Iron Ingot">
+
+<ellipse fill="none" stroke="black" cx="714.72" cy="-1385.6" rx="49.85" ry="18" style=""/>
+<text text-anchor="middle" x="714.72" y="-1381.4" font-family="Times,serif" font-size="14.00" style="">Iron Ingot</text>
+</g>
+<!-- 1&#45;&gt;Iron Ingot -->
+<g id="edge2" class="edge" data-name="1-&gt;Iron Ingot">
+
+<path fill="none" stroke="black" d="M594.9,-1377.8C603.41,-1378.36 628.68,-1380.02 653.74,-1381.66" style=""/>
+<polygon fill="black" stroke="black" points="653.45,-1385.15 663.66,-1382.31 653.91,-1378.17 653.45,-1385.15" style=""/>
+</g>
+<!-- Iron Ore -->
+<g id="node2" class="node" pointer-events="visible" data-name="Iron Ore">
+
+<ellipse fill="none" stroke="black" cx="474.28" cy="-1350.6" rx="44.03" ry="18" style=""/>
+<text text-anchor="middle" x="474.28" y="-1346.4" font-family="Times,serif" font-size="14.00" style="">Iron Ore</text>
+</g>
+<!-- Iron Ore&#45;&gt;1 -->
+<g id="edge1" class="edge" data-name="Iron Ore-&gt;1">
+
+<path fill="none" stroke="black" d="M513.12,-1359.52C534.69,-1364.6 560.42,-1370.66 575.94,-1374.32" style=""/>
+<polygon fill="black" stroke="black" points="574.9,-1377.67 585.44,-1376.55 576.51,-1370.85 574.9,-1377.67" style=""/>
+</g>
+<!-- 2 -->
+<g id="node4" class="node" pointer-events="visible" data-name="2">
+
+<ellipse fill="black" stroke="black" cx="590.89" cy="-1338.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Iron Ore&#45;&gt;2 -->
+<g id="edge3" class="edge" data-name="Iron Ore-&gt;2">
+
+<path fill="none" stroke="black" d="M517.3,-1346.2C537.81,-1344.05 561.13,-1341.61 575.68,-1340.09" style=""/>
+<polygon fill="black" stroke="black" points="575.79,-1343.6 585.37,-1339.07 575.06,-1336.63 575.79,-1343.6" style=""/>
+</g>
+<!-- 5 -->
+<g id="node12" class="node" pointer-events="visible" data-name="5">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-1385.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Iron Ingot&#45;&gt;5 -->
+<g id="edge9" class="edge" data-name="Iron Ingot-&gt;5">
+
+<path fill="none" stroke="black" d="M764.92,-1385.6C785.9,-1385.6 808.8,-1385.6 823.17,-1385.6" style=""/>
+<polygon fill="black" stroke="black" points="823.1,-1389.1 833.1,-1385.6 823.1,-1382.1 823.1,-1389.1" style=""/>
+</g>
+<!-- 50 -->
+<g id="node90" class="node" pointer-events="visible" data-name="50">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-1321.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Iron Ingot&#45;&gt;50 -->
+<g id="edge104" class="edge" data-name="Iron Ingot-&gt;50">
+
+<path fill="none" stroke="black" d="M757.52,-1376.04C771.29,-1371.87 786.3,-1366.16 798.95,-1358.6 810.47,-1351.71 821.3,-1340.8 828.53,-1332.6" style=""/>
+<polygon fill="black" stroke="black" points="831.05,-1335.05 834.77,-1325.13 825.67,-1330.57 831.05,-1335.05" style=""/>
+</g>
+<!-- 63 -->
+<g id="node109" class="node" pointer-events="visible" data-name="63">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-1270.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Iron Ingot&#45;&gt;63 -->
+<g id="edge137" class="edge" data-name="Iron Ingot-&gt;63">
+
+<path fill="none" stroke="black" d="M760.81,-1378.36C774.33,-1374.37 788.36,-1368.18 798.95,-1358.6 820.65,-1338.96 830.74,-1304.92 834.93,-1285.43" style=""/>
+<polygon fill="black" stroke="black" points="838.35,-1286.19 836.75,-1275.72 831.47,-1284.9 838.35,-1286.19" style=""/>
+</g>
+<!-- 97 -->
+<g id="node133" class="node" pointer-events="visible" data-name="97">
+
+<ellipse fill="black" stroke="black" cx="1057.27" cy="-1395.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Iron Ingot&#45;&gt;97 -->
+<g id="edge180" class="edge" data-name="Iron Ingot-&gt;97">
+
+<path fill="none" stroke="black" d="M760.83,-1392.83C819.94,-1401.26 926.77,-1412.92 1017.67,-1403.6 1025.97,-1402.75 1035.12,-1400.9 1042.42,-1399.19" style=""/>
+<polygon fill="black" stroke="black" points="1043.19,-1402.6 1052.03,-1396.75 1041.47,-1395.82 1043.19,-1402.6" style=""/>
+</g>
+<!-- 104 -->
+<g id="node143" class="node" pointer-events="visible" data-name="104">
+
+<ellipse fill="black" stroke="black" cx="1976.89" cy="-1280.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Iron Ingot&#45;&gt;104 -->
+<g id="edge205" class="edge" data-name="Iron Ingot-&gt;104">
+
+<path fill="none" stroke="black" d="M729.56,-1403.22C762.55,-1443.05 850.31,-1536.6 946.91,-1536.6 946.91,-1536.6 946.91,-1536.6 1709.8,-1536.6 1820.24,-1536.6 1866.17,-1521.1 1937.29,-1436.6 1972.34,-1394.95 1976.39,-1326.18 1976.33,-1295.81" style=""/>
+<polygon fill="black" stroke="black" points="1979.83,-1295.98 1976.13,-1286.05 1972.83,-1296.12 1979.83,-1295.98" style=""/>
+</g>
+<!-- Magnet -->
+<g id="node5" class="node" pointer-events="visible" data-name="Magnet">
+
+<ellipse fill="none" stroke="black" cx="714.72" cy="-1331.6" rx="40.57" ry="18" style=""/>
+<text text-anchor="middle" x="714.72" y="-1327.4" font-family="Times,serif" font-size="14.00" style="">Magnet</text>
+</g>
+<!-- 2&#45;&gt;Magnet -->
+<g id="edge4" class="edge" data-name="2-&gt;Magnet">
+
+<path fill="none" stroke="black" d="M594.9,-1338.43C604.46,-1337.88 635.16,-1336.11 662.95,-1334.52" style=""/>
+<polygon fill="black" stroke="black" points="662.92,-1338.02 672.7,-1333.96 662.52,-1331.04 662.92,-1338.02" style=""/>
+</g>
+<!-- 6 -->
+<g id="node14" class="node" pointer-events="visible" data-name="6">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-1228.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Magnet&#45;&gt;6 -->
+<g id="edge11" class="edge" data-name="Magnet-&gt;6">
+
+<path fill="none" stroke="black" d="M734.75,-1315.51C760.62,-1293.64 806.02,-1255.26 826.72,-1237.76" style=""/>
+<polygon fill="black" stroke="black" points="828.69,-1240.67 834.07,-1231.54 824.17,-1235.33 828.69,-1240.67" style=""/>
+</g>
+<!-- 103 -->
+<g id="node142" class="node" pointer-events="visible" data-name="103">
+
+<ellipse fill="black" stroke="black" cx="1708.8" cy="-1157.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Magnet&#45;&gt;103 -->
+<g id="edge201" class="edge" data-name="Magnet-&gt;103">
+
+<path fill="none" stroke="black" d="M751.96,-1338.94C767.28,-1343.12 784.81,-1349.42 798.95,-1358.6 819.01,-1371.62 816.23,-1383.71 834.95,-1398.6 879.47,-1434 890.03,-1460.6 946.91,-1460.6 946.91,-1460.6 946.91,-1460.6 1058.27,-1460.6 1336.44,-1460.6 1484.6,-1532.69 1669.2,-1324.6 1689.34,-1301.9 1701.89,-1209.39 1706.16,-1172.7" style=""/>
+<polygon fill="black" stroke="black" points="1709.63,-1173.16 1707.25,-1162.84 1702.67,-1172.39 1709.63,-1173.16" style=""/>
+</g>
+<!-- 3 -->
+<g id="node6" class="node" pointer-events="visible" data-name="3">
+
+<ellipse fill="black" stroke="black" cx="590.89" cy="-1011.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Copper Ingot -->
+<g id="node8" class="node" pointer-events="visible" data-name="Copper Ingot">
+
+<ellipse fill="none" stroke="black" cx="714.72" cy="-1011.6" rx="62.03" ry="18" style=""/>
+<text text-anchor="middle" x="714.72" y="-1007.4" font-family="Times,serif" font-size="14.00" style="">Copper Ingot</text>
+</g>
+<!-- 3&#45;&gt;Copper Ingot -->
+<g id="edge6" class="edge" data-name="3-&gt;Copper Ingot">
+
+<path fill="none" stroke="black" d="M594.9,-1011.6C601.95,-1011.6 620.47,-1011.6 640.86,-1011.6" style=""/>
+<polygon fill="black" stroke="black" points="640.8,-1015.1 650.8,-1011.6 640.8,-1008.1 640.8,-1015.1" style=""/>
+</g>
+<!-- Copper Ore -->
+<g id="node7" class="node" pointer-events="visible" data-name="Copper Ore">
+
+<ellipse fill="none" stroke="black" cx="474.28" cy="-1011.6" rx="56.21" ry="18" style=""/>
+<text text-anchor="middle" x="474.28" y="-1007.4" font-family="Times,serif" font-size="14.00" style="">Copper Ore</text>
+</g>
+<!-- Copper Ore&#45;&gt;3 -->
+<g id="edge5" class="edge" data-name="Copper Ore-&gt;3">
+
+<path fill="none" stroke="black" d="M530.9,-1011.6C547.4,-1011.6 564.08,-1011.6 575.48,-1011.6" style=""/>
+<polygon fill="black" stroke="black" points="575.43,-1015.1 585.43,-1011.6 575.43,-1008.1 575.43,-1015.1" style=""/>
+</g>
+<!-- Copper Ingot&#45;&gt;6 -->
+<g id="edge12" class="edge" data-name="Copper Ingot-&gt;6">
+
+<path fill="none" stroke="black" d="M725.9,-1029.73C749.94,-1072.55 809.78,-1179.14 830.42,-1215.9" style=""/>
+<polygon fill="black" stroke="black" points="827.27,-1217.45 835.22,-1224.45 833.38,-1214.02 827.27,-1217.45" style=""/>
+</g>
+<!-- 20 -->
+<g id="node36" class="node" pointer-events="visible" data-name="20">
+
+<ellipse fill="black" stroke="black" cx="1057.27" cy="-1238.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Copper Ingot&#45;&gt;20 -->
+<g id="edge34" class="edge" data-name="Copper Ingot-&gt;20">
+
+<path fill="none" stroke="black" d="M731.2,-1029.4C752.94,-1053.84 794.42,-1098.39 834.95,-1130.6 852.68,-1144.69 857.65,-1147.99 878.15,-1157.6 937.26,-1185.32 961.25,-1170.73 1017.67,-1203.6 1028.63,-1209.99 1039.17,-1219.88 1046.46,-1227.52" style=""/>
+<polygon fill="black" stroke="black" points="1043.8,-1229.8 1053.1,-1234.88 1049,-1225.11 1043.8,-1229.8" style=""/>
+</g>
+<!-- Copper Ingot&#45;&gt;50 -->
+<g id="edge105" class="edge" data-name="Copper Ingot-&gt;50">
+
+<path fill="none" stroke="black" d="M722.79,-1029.61C744.94,-1085.95 812.59,-1258.09 832.18,-1307.94" style=""/>
+<polygon fill="black" stroke="black" points="828.82,-1308.95 835.73,-1316.98 835.33,-1306.39 828.82,-1308.95" style=""/>
+</g>
+<!-- 53 -->
+<g id="node95" class="node" pointer-events="visible" data-name="53">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-954.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Copper Ingot&#45;&gt;53 -->
+<g id="edge114" class="edge" data-name="Copper Ingot-&gt;53">
+
+<path fill="none" stroke="black" d="M755.68,-997.82C801.35,-983.33 878.6,-962.6 946.91,-962.6 946.91,-962.6 946.91,-962.6 1058.27,-962.6 1178.69,-962.6 1324.09,-957.07 1369.6,-955.2" style=""/>
+<polygon fill="black" stroke="black" points="1369.67,-958.7 1379.51,-954.79 1369.38,-951.71 1369.67,-958.7" style=""/>
+</g>
+<!-- 99 -->
+<g id="node136" class="node" pointer-events="visible" data-name="99">
+
+<ellipse fill="black" stroke="black" cx="1708.8" cy="-952.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Copper Ingot&#45;&gt;99 -->
+<g id="edge188" class="edge" data-name="Copper Ingot-&gt;99">
+
+<path fill="none" stroke="black" d="M775.08,-1007.22C821.76,-1004.15 888.44,-1000.6 946.91,-1000.6 946.91,-1000.6 946.91,-1000.6 1385.93,-1000.6 1512.11,-1000.6 1550.91,-1025.54 1669.2,-981.6 1679.97,-977.6 1690.27,-969.57 1697.52,-962.97" style=""/>
+<polygon fill="black" stroke="black" points="1699.9,-965.54 1704.57,-956.03 1694.99,-960.55 1699.9,-965.54" style=""/>
+</g>
+<!-- 100 -->
+<g id="node137" class="node" pointer-events="visible" data-name="100">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-870.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Copper Ingot&#45;&gt;100 -->
+<g id="edge192" class="edge" data-name="Copper Ingot-&gt;100">
+
+<path fill="none" stroke="black" d="M740.93,-995.09C758.73,-982.52 782.28,-963.96 798.95,-943.6 813.98,-925.24 825.71,-900.11 832.13,-884.63" style=""/>
+<polygon fill="black" stroke="black" points="835.38,-885.93 835.79,-875.34 828.87,-883.36 835.38,-885.93" style=""/>
+</g>
+<!-- 4 -->
+<g id="node9" class="node" pointer-events="visible" data-name="4">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-1117.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Stone Brick -->
+<g id="node11" class="node" pointer-events="visible" data-name="Stone Brick">
+
+<ellipse fill="none" stroke="black" cx="947.91" cy="-1284.6" rx="56.8" ry="18" style=""/>
+<text text-anchor="middle" x="947.91" y="-1280.4" font-family="Times,serif" font-size="14.00" style="">Stone Brick</text>
+</g>
+<!-- 4&#45;&gt;Stone Brick -->
+<g id="edge8" class="edge" data-name="4-&gt;Stone Brick">
+
+<path fill="none" stroke="black" d="M839.45,-1121.17C839.13,-1138.56 840.03,-1215.25 878.15,-1257.6 882.02,-1261.9 886.66,-1265.52 891.68,-1268.57" style=""/>
+<polygon fill="black" stroke="black" points="889.86,-1271.57 900.35,-1273.06 893.08,-1265.36 889.86,-1271.57" style=""/>
+</g>
+<!-- Stone -->
+<g id="node10" class="node" pointer-events="visible" data-name="Stone">
+
+<ellipse fill="none" stroke="black" cx="714.72" cy="-916.6" rx="33.07" ry="18" style=""/>
+<text text-anchor="middle" x="714.72" y="-912.4" font-family="Times,serif" font-size="14.00" style="">Stone</text>
+</g>
+<!-- Stone&#45;&gt;4 -->
+<g id="edge7" class="edge" data-name="Stone-&gt;4">
+
+<path fill="none" stroke="black" d="M738.4,-929.67C757.25,-941.66 783.41,-961.1 798.95,-984.6 824.01,-1022.51 833.11,-1076.93 836.15,-1102.83" style=""/>
+<polygon fill="black" stroke="black" points="832.64,-1102.89 837.13,-1112.49 839.6,-1102.18 832.64,-1102.89" style=""/>
+</g>
+<!-- 24 -->
+<g id="node45" class="node" pointer-events="visible" data-name="24">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-473.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Stone&#45;&gt;24 -->
+<g id="edge43" class="edge" data-name="Stone-&gt;24">
+
+<path fill="none" stroke="black" d="M747.81,-914.56C765.67,-911.64 786.71,-904.9 798.95,-889.6 824.49,-857.68 834.98,-559.3 837.12,-488.58" style=""/>
+<polygon fill="black" stroke="black" points="840.61,-488.98 837.41,-478.88 833.62,-488.77 840.61,-488.98" style=""/>
+</g>
+<!-- 34 -->
+<g id="node67" class="node" pointer-events="visible" data-name="34">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-821.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Stone&#45;&gt;34 -->
+<g id="edge77" class="edge" data-name="Stone-&gt;34">
+
+<path fill="none" stroke="black" d="M747.24,-912.05C764.04,-908.32 784.23,-901.6 798.95,-889.6 816.36,-875.4 827.4,-851.14 833.02,-835.76" style=""/>
+<polygon fill="black" stroke="black" points="836.28,-837.04 836.11,-826.44 829.64,-834.83 836.28,-837.04" style=""/>
+</g>
+<!-- 57 -->
+<g id="node101" class="node" pointer-events="visible" data-name="57">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-916.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Stone&#45;&gt;57 -->
+<g id="edge123" class="edge" data-name="Stone-&gt;57">
+
+<path fill="none" stroke="black" d="M748.05,-916.6C772.52,-916.6 804.96,-916.6 823.31,-916.6" style=""/>
+<polygon fill="black" stroke="black" points="823.06,-920.1 833.06,-916.6 823.06,-913.1 823.06,-920.1" style=""/>
+</g>
+<!-- 112 -->
+<g id="node150" class="node" pointer-events="visible" data-name="112">
+
+<ellipse fill="black" stroke="black" cx="1057.27" cy="-1284.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Stone Brick&#45;&gt;112 -->
+<g id="edge216" class="edge" data-name="Stone Brick-&gt;112">
+
+<path fill="none" stroke="black" d="M1005.11,-1284.6C1018.85,-1284.6 1032.38,-1284.6 1042.07,-1284.6" style=""/>
+<polygon fill="black" stroke="black" points="1041.85,-1288.1 1051.85,-1284.6 1041.85,-1281.1 1041.85,-1288.1" style=""/>
+</g>
+<!-- Gear -->
+<g id="node13" class="node" pointer-events="visible" data-name="Gear">
+
+<ellipse fill="none" stroke="black" cx="947.91" cy="-1376.6" rx="29.6" ry="18" style=""/>
+<text text-anchor="middle" x="947.91" y="-1372.4" font-family="Times,serif" font-size="14.00" style="">Gear</text>
+</g>
+<!-- 5&#45;&gt;Gear -->
+<g id="edge10" class="edge" data-name="5-&gt;Gear">
+
+<path fill="none" stroke="black" d="M842.2,-1385.38C851.16,-1384.63 881.17,-1382.11 906.78,-1379.96" style=""/>
+<polygon fill="black" stroke="black" points="906.96,-1383.46 916.63,-1379.14 906.37,-1376.49 906.96,-1383.46" style=""/>
+</g>
+<!-- Gear&#45;&gt;97 -->
+<g id="edge181" class="edge" data-name="Gear-&gt;97">
+
+<path fill="none" stroke="black" d="M976.84,-1381.54C997.79,-1385.25 1025.6,-1390.17 1042.15,-1393.1" style=""/>
+<polygon fill="black" stroke="black" points="1041.38,-1396.52 1051.84,-1394.82 1042.6,-1389.63 1041.38,-1396.52" style=""/>
+</g>
+<!-- Magnetic Coil -->
+<g id="node15" class="node" pointer-events="visible" data-name="Magnetic Coil">
+
+<ellipse fill="none" stroke="black" cx="947.91" cy="-1130.6" rx="66.61" ry="18" style=""/>
+<text text-anchor="middle" x="947.91" y="-1126.4" font-family="Times,serif" font-size="14.00" style="">Magnetic Coil</text>
+</g>
+<!-- 6&#45;&gt;Magnetic Coil -->
+<g id="edge13" class="edge" data-name="6-&gt;Magnetic Coil">
+
+<path fill="none" stroke="black" d="M841.79,-1226.55C851.67,-1217.54 892.05,-1180.68 919.78,-1155.36" style=""/>
+<polygon fill="black" stroke="black" points="921.79,-1158.27 926.82,-1148.94 917.07,-1153.1 921.79,-1158.27" style=""/>
+</g>
+<!-- 9 -->
+<g id="node16" class="node" pointer-events="visible" data-name="9">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-1233.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Magnetic Coil&#45;&gt;9 -->
+<g id="edge14" class="edge" data-name="Magnetic Coil-&gt;9">
+
+<path fill="none" stroke="black" d="M1007.66,-1138.77C1114.39,-1153.74 1330.52,-1184.79 1345.33,-1192.6 1358.11,-1199.34 1369.01,-1211.98 1375.93,-1221.45" style=""/>
+<polygon fill="black" stroke="black" points="1372.92,-1223.24 1381.41,-1229.56 1378.72,-1219.32 1372.92,-1223.24" style=""/>
+</g>
+<!-- 12 -->
+<g id="node22" class="node" pointer-events="visible" data-name="12">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-1122.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Magnetic Coil&#45;&gt;12 -->
+<g id="edge19" class="edge" data-name="Magnetic Coil-&gt;12">
+
+<path fill="none" stroke="black" d="M993.76,-1117.12C1022.85,-1109.1 1061.74,-1099.7 1096.87,-1095.6 1206.55,-1082.8 1240.01,-1062.42 1345.33,-1095.6 1355.89,-1098.93 1366.09,-1106.3 1373.34,-1112.49" style=""/>
+<polygon fill="black" stroke="black" points="1370.95,-1115.05 1380.66,-1119.3 1375.72,-1109.93 1370.95,-1115.05" style=""/>
+</g>
+<!-- Magnetic Coil&#45;&gt;97 -->
+<g id="edge182" class="edge" data-name="Magnetic Coil-&gt;97">
+
+<path fill="none" stroke="black" d="M970.6,-1147.78C986.13,-1161.3 1006.24,-1181.48 1017.67,-1203.6 1048.81,-1263.86 1054.86,-1346.8 1056.01,-1380.48" style=""/>
+<polygon fill="black" stroke="black" points="1052.51,-1380.25 1056.23,-1390.17 1059.5,-1380.09 1052.51,-1380.25" style=""/>
+</g>
+<!-- 98 -->
+<g id="node135" class="node" pointer-events="visible" data-name="98">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-1258.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Magnetic Coil&#45;&gt;98 -->
+<g id="edge185" class="edge" data-name="Magnetic Coil-&gt;98">
+
+<path fill="none" stroke="black" d="M983.82,-1146.16C1013.38,-1158.76 1057.18,-1176.09 1096.87,-1186.6 1204.93,-1215.2 1243.8,-1178.85 1345.33,-1225.6 1356.56,-1230.77 1367.07,-1240.18 1374.28,-1247.63" style=""/>
+<polygon fill="black" stroke="black" points="1371.51,-1249.79 1380.8,-1254.88 1376.71,-1245.1 1371.51,-1249.79" style=""/>
+</g>
+<!-- Electromagnetic Matrix -->
+<g id="node18" class="node" pointer-events="visible" data-name="Electromagnetic Matrix">
+
+<ellipse fill="none" stroke="black" cx="2428.92" cy="-1288.6" rx="103.02" ry="18" style=""/>
+<text text-anchor="middle" x="2428.92" y="-1284.4" font-family="Times,serif" font-size="14.00" style="">Electromagnetic Matrix</text>
+</g>
+<!-- 9&#45;&gt;Electromagnetic Matrix -->
+<g id="edge16" class="edge" data-name="9-&gt;Electromagnetic Matrix">
+
+<path fill="none" stroke="black" d="M1387.83,-1236.47C1405.55,-1262.75 1544.37,-1460.6 1707.8,-1460.6 1707.8,-1460.6 1707.8,-1460.6 1977.89,-1460.6 2141.99,-1460.6 2318.88,-1359.58 2392.58,-1312.38" style=""/>
+<polygon fill="black" stroke="black" points="2394.11,-1315.56 2400.6,-1307.18 2390.31,-1309.68 2394.11,-1315.56" style=""/>
+</g>
+<!-- Circuit Board -->
+<g id="node17" class="node" pointer-events="visible" data-name="Circuit Board">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-1360.6" rx="63.74" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-1356.4" font-family="Times,serif" font-size="14.00" style="">Circuit Board</text>
+</g>
+<!-- Circuit Board&#45;&gt;9 -->
+<g id="edge15" class="edge" data-name="Circuit Board-&gt;9">
+
+<path fill="none" stroke="black" d="M1284.77,-1358.68C1306.04,-1355.17 1328.62,-1347.93 1345.33,-1333.6 1358.73,-1322.1 1373.48,-1272.68 1380.21,-1247.89" style=""/>
+<polygon fill="black" stroke="black" points="1383.57,-1248.86 1382.73,-1238.3 1376.8,-1247.08 1383.57,-1248.86" style=""/>
+</g>
+<!-- 51 -->
+<g id="node91" class="node" pointer-events="visible" data-name="51">
+
+<ellipse fill="black" stroke="black" cx="1708.8" cy="-977.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Circuit Board&#45;&gt;51 -->
+<g id="edge107" class="edge" data-name="Circuit Board-&gt;51">
+
+<path fill="none" stroke="black" d="M1282.12,-1366.3C1379.14,-1371.87 1569.58,-1367 1669.2,-1257.6 1704.99,-1218.3 1707.85,-1045.01 1707.88,-992.64" style=""/>
+<polygon fill="black" stroke="black" points="1711.38,-992.79 1707.85,-982.8 1704.38,-992.81 1711.38,-992.79" style=""/>
+</g>
+<!-- 68 -->
+<g id="node113" class="node" pointer-events="visible" data-name="68">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-1188.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Circuit Board&#45;&gt;68 -->
+<g id="edge146" class="edge" data-name="Circuit Board-&gt;68">
+
+<path fill="none" stroke="black" d="M1285.02,-1359.76C1306.57,-1356.39 1329.26,-1348.97 1345.33,-1333.6 1364.19,-1315.56 1377.17,-1236.93 1381.92,-1203.61" style=""/>
+<polygon fill="black" stroke="black" points="1385.36,-1204.29 1383.24,-1193.91 1378.43,-1203.35 1385.36,-1204.29" style=""/>
+</g>
+<!-- 69 -->
+<g id="node115" class="node" pointer-events="visible" data-name="69">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-1163.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Circuit Board&#45;&gt;69 -->
+<g id="edge149" class="edge" data-name="Circuit Board-&gt;69">
+
+<path fill="none" stroke="black" d="M1285.01,-1360.13C1306.69,-1356.82 1329.47,-1349.34 1345.33,-1333.6 1346.73,-1332.21 1371.65,-1219.44 1380.68,-1178.36" style=""/>
+<polygon fill="black" stroke="black" points="1384.1,-1179.11 1382.83,-1168.59 1377.27,-1177.61 1384.1,-1179.11" style=""/>
+</g>
+<!-- 75 -->
+<g id="node120" class="node" pointer-events="visible" data-name="75">
+
+<ellipse fill="black" stroke="black" cx="3229.33" cy="-641.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Electromagnetic Matrix&#45;&gt;75 -->
+<g id="edge157" class="edge" data-name="Electromagnetic Matrix-&gt;75">
+
+<path fill="none" stroke="black" d="M2509.89,-1277.14C2668.45,-1249.83 3021.8,-1165.22 3189.73,-936.6 3206.5,-913.77 3222.88,-713.38 3227.22,-656.56" style=""/>
+<polygon fill="black" stroke="black" points="3230.68,-657.15 3227.94,-646.91 3223.7,-656.62 3230.68,-657.15" style=""/>
+</g>
+<!-- 11 -->
+<g id="node19" class="node" pointer-events="visible" data-name="11">
+
+<ellipse fill="black" stroke="black" cx="1057.27" cy="-1032.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Prism -->
+<g id="node21" class="node" pointer-events="visible" data-name="Prism">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-1122.6" rx="33.65" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-1118.4" font-family="Times,serif" font-size="14.00" style="">Prism</text>
+</g>
+<!-- 11&#45;&gt;Prism -->
+<g id="edge18" class="edge" data-name="11-&gt;Prism">
+
+<path fill="none" stroke="black" d="M1060.81,-1034.01C1074.93,-1041.86 1144.57,-1080.6 1186.96,-1104.17" style=""/>
+<polygon fill="black" stroke="black" points="1185.08,-1107.13 1195.52,-1108.93 1188.48,-1101.01 1185.08,-1107.13" style=""/>
+</g>
+<!-- Glass -->
+<g id="node20" class="node" pointer-events="visible" data-name="Glass">
+
+<ellipse fill="none" stroke="black" cx="947.91" cy="-916.6" rx="32.49" ry="18" style=""/>
+<text text-anchor="middle" x="947.91" y="-912.4" font-family="Times,serif" font-size="14.00" style="">Glass</text>
+</g>
+<!-- Glass&#45;&gt;11 -->
+<g id="edge17" class="edge" data-name="Glass-&gt;11">
+
+<path fill="none" stroke="black" d="M963.84,-932.73C986.11,-956.79 1027.44,-1001.44 1046.35,-1021.88" style=""/>
+<polygon fill="black" stroke="black" points="1043.75,-1024.22 1053.11,-1029.19 1048.89,-1019.47 1043.75,-1024.22" style=""/>
+</g>
+<!-- 30 -->
+<g id="node60" class="node" pointer-events="visible" data-name="30">
+
+<ellipse fill="black" stroke="black" cx="1057.27" cy="-512.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Glass&#45;&gt;30 -->
+<g id="edge64" class="edge" data-name="Glass-&gt;30">
+
+<path fill="none" stroke="black" d="M964.76,-900.94C981.02,-883.82 1005.6,-854.78 1017.67,-824.6 1066.2,-703.33 1033.34,-659.44 1053.58,-527.49" style=""/>
+<polygon fill="black" stroke="black" points="1057.03,-528.08 1055.17,-517.65 1050.12,-526.96 1057.03,-528.08" style=""/>
+</g>
+<!-- Prism&#45;&gt;12 -->
+<g id="edge20" class="edge" data-name="Prism-&gt;12">
+
+<path fill="none" stroke="black" d="M1255.24,-1122.6C1290.49,-1122.6 1344.58,-1122.6 1369.92,-1122.6" style=""/>
+<polygon fill="black" stroke="black" points="1369.65,-1126.1 1379.65,-1122.6 1369.64,-1119.1 1369.65,-1126.1" style=""/>
+</g>
+<!-- Prism&#45;&gt;68 -->
+<g id="edge145" class="edge" data-name="Prism-&gt;68">
+
+<path fill="none" stroke="black" d="M1254.23,-1126.73C1280.01,-1131.02 1316.53,-1139.31 1345.33,-1154.6 1356.39,-1160.47 1366.92,-1170.12 1374.17,-1177.64" style=""/>
+<polygon fill="black" stroke="black" points="1371.46,-1179.85 1380.77,-1184.9 1376.64,-1175.14 1371.46,-1179.85" style=""/>
+</g>
+<!-- Plasma Exciter -->
+<g id="node23" class="node" pointer-events="visible" data-name="Plasma Exciter">
+
+<ellipse fill="none" stroke="black" cx="1546.86" cy="-1122.6" rx="69.46" ry="18" style=""/>
+<text text-anchor="middle" x="1546.86" y="-1118.4" font-family="Times,serif" font-size="14.00" style="">Plasma Exciter</text>
+</g>
+<!-- 12&#45;&gt;Plasma Exciter -->
+<g id="edge21" class="edge" data-name="12-&gt;Plasma Exciter">
+
+<path fill="none" stroke="black" d="M1388.98,-1122.6C1399.03,-1122.6 1432.35,-1122.6 1465.71,-1122.6" style=""/>
+<polygon fill="black" stroke="black" points="1465.48,-1126.1 1475.48,-1122.6 1465.48,-1119.1 1465.48,-1126.1" style=""/>
+</g>
+<!-- 16 -->
+<g id="node24" class="node" pointer-events="visible" data-name="16">
+
+<ellipse fill="black" stroke="black" cx="179.16" cy="-509.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Hydrogen -->
+<g id="node26" class="node" pointer-events="visible" data-name="Hydrogen">
+
+<ellipse fill="none" stroke="black" cx="268.41" cy="-629.6" rx="49.81" ry="18" style=""/>
+<text text-anchor="middle" x="268.41" y="-625.4" font-family="Times,serif" font-size="14.00" style="">Hydrogen</text>
+</g>
+<!-- 16&#45;&gt;Hydrogen -->
+<g id="edge23" class="edge" data-name="16-&gt;Hydrogen">
+
+<path fill="none" stroke="black" d="M181.98,-512.11C190.37,-523.64 225.77,-572.33 248.29,-603.3" style=""/>
+<polygon fill="black" stroke="black" points="245.22,-605.03 253.93,-611.06 250.88,-600.91 245.22,-605.03" style=""/>
+</g>
+<!-- Refined Oil -->
+<g id="node27" class="node" pointer-events="visible" data-name="Refined Oil">
+
+<ellipse fill="none" stroke="black" cx="474.28" cy="-408.6" rx="56.22" ry="18" style=""/>
+<text text-anchor="middle" x="474.28" y="-404.4" font-family="Times,serif" font-size="14.00" style="">Refined Oil</text>
+</g>
+<!-- 16&#45;&gt;Refined Oil -->
+<g id="edge24" class="edge" data-name="16-&gt;Refined Oil">
+
+<path fill="none" stroke="black" d="M181.78,-506.61C186.39,-498.43 200.39,-475.59 218.76,-464.6 250.67,-445.51 346.54,-427.84 411.07,-417.65" style=""/>
+<polygon fill="black" stroke="black" points="411.5,-421.12 420.84,-416.13 410.42,-414.21 411.5,-421.12" style=""/>
+</g>
+<!-- Crude Oil -->
+<g id="node25" class="node" pointer-events="visible" data-name="Crude Oil">
+
+<ellipse fill="none" stroke="black" cx="69.78" cy="-509.6" rx="49.28" ry="18" style=""/>
+<text text-anchor="middle" x="69.78" y="-505.4" font-family="Times,serif" font-size="14.00" style="">Crude Oil</text>
+</g>
+<!-- Crude Oil&#45;&gt;16 -->
+<g id="edge22" class="edge" data-name="Crude Oil-&gt;16">
+
+<path fill="none" stroke="black" d="M119.44,-509.6C135.67,-509.6 152.52,-509.6 163.99,-509.6" style=""/>
+<polygon fill="black" stroke="black" points="163.66,-513.1 173.66,-509.6 163.66,-506.1 163.66,-513.1" style=""/>
+</g>
+<!-- 18 -->
+<g id="node31" class="node" pointer-events="visible" data-name="18">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-236.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Hydrogen&#45;&gt;18 -->
+<g id="edge28" class="edge" data-name="Hydrogen-&gt;18">
+
+<path fill="none" stroke="black" d="M302.13,-616.05C317.73,-609.8 336.74,-602.47 354.07,-596.6 440.49,-567.33 471.84,-584.47 551.29,-539.6 574.07,-526.73 581.98,-522.58 594.49,-499.6 638.92,-417.96 567.98,-362.39 630.49,-293.6 682.29,-236.59 785.32,-234.47 823.17,-235.78" style=""/>
+<polygon fill="black" stroke="black" points="822.85,-239.27 833.01,-236.28 823.21,-232.28 822.85,-239.27" style=""/>
+</g>
+<!-- 19 -->
+<g id="node33" class="node" pointer-events="visible" data-name="19">
+
+<ellipse fill="black" stroke="black" cx="1057.27" cy="-678.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Hydrogen&#45;&gt;19 -->
+<g id="edge31" class="edge" data-name="Hydrogen-&gt;19">
+
+<path fill="none" stroke="black" d="M300.1,-643.84C339.36,-660.72 409.88,-686.6 473.28,-686.6 473.28,-686.6 473.28,-686.6 839.55,-686.6 915.98,-686.6 1007.47,-681.57 1042.08,-679.49" style=""/>
+<polygon fill="black" stroke="black" points="1041.94,-683 1051.71,-678.89 1041.51,-676.02 1041.94,-683" style=""/>
+</g>
+<!-- 28 -->
+<g id="node55" class="node" pointer-events="visible" data-name="28">
+
+<ellipse fill="black" stroke="black" cx="1708.8" cy="-729.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Hydrogen&#45;&gt;28 -->
+<g id="edge58" class="edge" data-name="Hydrogen-&gt;28">
+
+<path fill="none" stroke="black" d="M289.67,-646.37C324.74,-673.64 400.06,-724.6 473.28,-724.6 473.28,-724.6 473.28,-724.6 1058.27,-724.6 1313.57,-724.6 1625.29,-728.51 1693.99,-729.41" style=""/>
+<polygon fill="black" stroke="black" points="1693.51,-732.91 1703.55,-729.54 1693.6,-725.91 1693.51,-732.91" style=""/>
+</g>
+<!-- 29 -->
+<g id="node58" class="node" pointer-events="visible" data-name="29">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-797.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Hydrogen&#45;&gt;29 -->
+<g id="edge62" class="edge" data-name="Hydrogen-&gt;29">
+
+<path fill="none" stroke="black" d="M315.05,-636.3C356.29,-641.77 418.71,-648.6 473.28,-648.6 473.28,-648.6 473.28,-648.6 839.55,-648.6 951.95,-648.6 1256.47,-582.76 1345.33,-651.6 1366.18,-667.76 1378.1,-748.74 1382.25,-782.64" style=""/>
+<polygon fill="black" stroke="black" points="1378.76,-782.92 1383.38,-792.46 1385.71,-782.12 1378.76,-782.92" style=""/>
+</g>
+<!-- 40 -->
+<g id="node78" class="node" pointer-events="visible" data-name="40">
+
+<ellipse fill="black" stroke="black" cx="357.67" cy="-924.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Hydrogen&#45;&gt;40 -->
+<g id="edge90" class="edge" data-name="Hydrogen-&gt;40">
+
+<path fill="none" stroke="black" d="M274.74,-647.61C290.74,-701.69 338.14,-861.94 352.5,-910.5" style=""/>
+<polygon fill="black" stroke="black" points="349.05,-911.18 355.24,-919.78 355.76,-909.2 349.05,-911.18" style=""/>
+</g>
+<!-- 44 -->
+<g id="node87" class="node" pointer-events="visible" data-name="44">
+
+<ellipse fill="black" stroke="black" cx="2428.92" cy="-541.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Hydrogen&#45;&gt;44 -->
+<g id="edge100" class="edge" data-name="Hydrogen-&gt;44">
+
+<path fill="none" stroke="black" d="M315.05,-622.9C356.29,-617.43 418.71,-610.6 473.28,-610.6 473.28,-610.6 473.28,-610.6 839.55,-610.6 1208.73,-610.6 1300.97,-596.18 1669.2,-569.6 1823.84,-558.44 1861.62,-543.94 2016.49,-536.6 2172.04,-529.23 2361.01,-538.04 2413.7,-540.81" style=""/>
+<polygon fill="black" stroke="black" points="2413.29,-544.3 2423.46,-541.35 2413.67,-537.31 2413.29,-544.3" style=""/>
+</g>
+<!-- 58 -->
+<g id="node102" class="node" pointer-events="visible" data-name="58">
+
+<ellipse fill="black" stroke="black" cx="590.89" cy="-486.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Hydrogen&#45;&gt;58 -->
+<g id="edge126" class="edge" data-name="Hydrogen-&gt;58">
+
+<path fill="none" stroke="black" d="M280.36,-611.77C295.51,-593.22 324.4,-565.7 354.07,-549.6 431.95,-507.34 538.07,-486.35 575.84,-484.62" style=""/>
+<polygon fill="black" stroke="black" points="575.55,-488.11 585.66,-484.92 575.77,-481.11 575.55,-488.11" style=""/>
+</g>
+<!-- 115 -->
+<g id="node152" class="node" pointer-events="visible" data-name="115">
+
+<ellipse fill="black" stroke="black" cx="357.67" cy="-756.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Hydrogen&#45;&gt;115 -->
+<g id="edge219" class="edge" data-name="Hydrogen-&gt;115">
+
+<path fill="none" stroke="black" d="M285.01,-646.99C304.29,-672.72 336.24,-719.72 350.01,-743.11" style=""/>
+<polygon fill="black" stroke="black" points="346.91,-744.74 354.77,-751.84 353.06,-741.39 346.91,-744.74" style=""/>
+</g>
+<!-- 121 -->
+<g id="node153" class="node" pointer-events="visible" data-name="121">
+
+<ellipse fill="black" stroke="black" cx="357.67" cy="-408.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Hydrogen&#45;&gt;121 -->
+<g id="edge223" class="edge" data-name="Hydrogen-&gt;121">
+
+<path fill="none" stroke="black" d="M276.55,-611.51C293.59,-568.36 336.33,-460.11 351.35,-422.07" style=""/>
+<polygon fill="black" stroke="black" points="354.45,-423.76 354.86,-413.18 347.93,-421.19 354.45,-423.76" style=""/>
+</g>
+<!-- 23 -->
+<g id="node43" class="node" pointer-events="visible" data-name="23">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-152.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Refined Oil&#45;&gt;23 -->
+<g id="edge39" class="edge" data-name="Refined Oil-&gt;23">
+
+<path fill="none" stroke="black" d="M480.38,-390.55C494.8,-343.33 540.75,-216.13 630.49,-163.6 694.1,-126.36 788.41,-141.65 823.63,-149.27" style=""/>
+<polygon fill="black" stroke="black" points="822.83,-152.68 833.36,-151.54 824.42,-145.86 822.83,-152.68" style=""/>
+</g>
+<!-- Refined Oil&#45;&gt;24 -->
+<g id="edge42" class="edge" data-name="Refined Oil-&gt;24">
+
+<path fill="none" stroke="black" d="M512.37,-422.21C543.47,-433.04 589.29,-447.66 630.49,-455.6 702.09,-469.4 789.68,-472.63 823.4,-473.38" style=""/>
+<polygon fill="black" stroke="black" points="823.03,-476.87 833.09,-473.55 823.15,-469.87 823.03,-476.87" style=""/>
+</g>
+<!-- 25 -->
+<g id="node48" class="node" pointer-events="visible" data-name="25">
+
+<ellipse fill="black" stroke="black" cx="1057.27" cy="-277.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Refined Oil&#45;&gt;25 -->
+<g id="edge47" class="edge" data-name="Refined Oil-&gt;25">
+
+<path fill="none" stroke="black" d="M491.97,-391.08C528.48,-354.76 619.7,-274.6 713.72,-274.6 713.72,-274.6 713.72,-274.6 839.55,-274.6 915.94,-274.6 1007.45,-276.49 1042.07,-277.27" style=""/>
+<polygon fill="black" stroke="black" points="1041.63,-280.76 1051.7,-277.49 1041.79,-273.76 1041.63,-280.76" style=""/>
+</g>
+<!-- Refined Oil&#45;&gt;58 -->
+<g id="edge125" class="edge" data-name="Refined Oil-&gt;58">
+
+<path fill="none" stroke="black" d="M499.58,-425.14C523.62,-441.5 559.39,-465.85 577.87,-478.42" style=""/>
+<polygon fill="black" stroke="black" points="575.9,-481.31 586.13,-484.05 579.84,-475.53 575.9,-481.31" style=""/>
+</g>
+<!-- Refined Oil&#45;&gt;121 -->
+<g id="edge222" class="edge" data-name="Refined Oil-&gt;121">
+
+<path fill="none" stroke="black" d="M421.51,-415.32C403.4,-415.51 384.55,-414.78 372.28,-413.16" style=""/>
+<polygon fill="black" stroke="black" points="373.06,-409.74 362.54,-411.04 371.57,-416.58 373.06,-409.74" style=""/>
+</g>
+<!-- 17 -->
+<g id="node28" class="node" pointer-events="visible" data-name="17">
+
+<ellipse fill="black" stroke="black" cx="590.89" cy="-112.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Energetic Graphite -->
+<g id="node30" class="node" pointer-events="visible" data-name="Energetic Graphite">
+
+<ellipse fill="none" stroke="black" cx="714.72" cy="-190.6" rx="84.47" ry="18" style=""/>
+<text text-anchor="middle" x="714.72" y="-186.4" font-family="Times,serif" font-size="14.00" style="">Energetic Graphite</text>
+</g>
+<!-- 17&#45;&gt;Energetic Graphite -->
+<g id="edge26" class="edge" data-name="17-&gt;Energetic Graphite">
+
+<path fill="none" stroke="black" d="M594.43,-114.23C604.94,-120.96 645.9,-147.18 676.92,-167.04" style=""/>
+<polygon fill="black" stroke="black" points="675,-169.97 685.31,-172.41 678.78,-164.07 675,-169.97" style=""/>
+</g>
+<!-- Coal -->
+<g id="node29" class="node" pointer-events="visible" data-name="Coal">
+
+<ellipse fill="none" stroke="black" cx="268.41" cy="-125.6" rx="29.05" ry="18" style=""/>
+<text text-anchor="middle" x="268.41" y="-121.4" font-family="Times,serif" font-size="14.00" style="">Coal</text>
+</g>
+<!-- Coal&#45;&gt;17 -->
+<g id="edge25" class="edge" data-name="Coal-&gt;17">
+
+<path fill="none" stroke="black" d="M297.85,-124.45C363.93,-121.77 525.97,-115.19 575.36,-113.19" style=""/>
+<polygon fill="black" stroke="black" points="575.48,-116.69 585.33,-112.78 575.19,-109.69 575.48,-116.69" style=""/>
+</g>
+<!-- 106 -->
+<g id="node144" class="node" pointer-events="visible" data-name="106">
+
+<ellipse fill="black" stroke="black" cx="357.67" cy="-86.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Coal&#45;&gt;106 -->
+<g id="edge208" class="edge" data-name="Coal-&gt;106">
+
+<path fill="none" stroke="black" d="M292.34,-115.35C308.72,-108.03 330.16,-98.45 343.68,-92.41" style=""/>
+<polygon fill="black" stroke="black" points="344.7,-95.78 352.41,-88.51 341.85,-89.39 344.7,-95.78" style=""/>
+</g>
+<!-- Coal&#45;&gt;121 -->
+<g id="edge224" class="edge" data-name="Coal-&gt;121">
+
+<path fill="none" stroke="black" d="M274.87,-143.3C290.93,-195.4 337.81,-347.44 352.33,-394.53" style=""/>
+<polygon fill="black" stroke="black" points="348.94,-395.41 355.23,-403.93 355.63,-393.35 348.94,-395.41" style=""/>
+</g>
+<!-- Energetic Graphite&#45;&gt;18 -->
+<g id="edge27" class="edge" data-name="Energetic Graphite-&gt;18">
+
+<path fill="none" stroke="black" d="M757.65,-206.43C780.86,-215.19 808.16,-225.5 824.09,-231.52" style=""/>
+<polygon fill="black" stroke="black" points="822.77,-234.76 833.36,-235.02 825.24,-228.21 822.77,-234.76" style=""/>
+</g>
+<!-- Energetic Graphite&#45;&gt;23 -->
+<g id="edge40" class="edge" data-name="Energetic Graphite-&gt;23">
+
+<path fill="none" stroke="black" d="M763.87,-175.58C785.64,-168.79 809.7,-161.29 824.21,-156.76" style=""/>
+<polygon fill="black" stroke="black" points="824.87,-160.22 833.38,-153.9 822.79,-153.54 824.87,-160.22" style=""/>
+</g>
+<!-- 31 -->
+<g id="node62" class="node" pointer-events="visible" data-name="31">
+
+<ellipse fill="black" stroke="black" cx="1057.27" cy="-410.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Energetic Graphite&#45;&gt;31 -->
+<g id="edge68" class="edge" data-name="Energetic Graphite-&gt;31">
+
+<path fill="none" stroke="black" d="M742.73,-208.05C812.19,-252.92 995.05,-371.05 1044.05,-402.7" style=""/>
+<polygon fill="black" stroke="black" points="1042.07,-405.59 1052.36,-408.08 1045.86,-399.71 1042.07,-405.59" style=""/>
+</g>
+<!-- 60 -->
+<g id="node104" class="node" pointer-events="visible" data-name="60">
+
+<ellipse fill="black" stroke="black" cx="947.91" cy="-112.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Energetic Graphite&#45;&gt;60 -->
+<g id="edge131" class="edge" data-name="Energetic Graphite-&gt;60">
+
+<path fill="none" stroke="black" d="M750.01,-173.82C782.29,-158.76 832.39,-137.29 878.15,-125.6 896.85,-120.82 918.81,-116.97 932.79,-114.73" style=""/>
+<polygon fill="black" stroke="black" points="933.15,-118.22 942.5,-113.24 932.09,-111.3 933.15,-118.22" style=""/>
+</g>
+<!-- Energetic Graphite&#45;&gt;103 -->
+<g id="edge202" class="edge" data-name="Energetic Graphite-&gt;103">
+
+<path fill="none" stroke="black" d="M794.46,-196.99C866.68,-205.23 975.12,-223.74 1060.87,-264.6 1079.42,-273.44 1078.07,-285.32 1096.87,-293.6 1217.37,-346.68 1308.11,-241.34 1388.53,-345.6 1474.98,-457.69 1345.1,-864.42 1424.53,-981.6 1491.84,-1080.91 1579.4,-1016.05 1669.2,-1095.6 1684.45,-1109.11 1695.76,-1130.08 1702.07,-1143.83" style=""/>
+<polygon fill="black" stroke="black" points="1698.81,-1145.1 1705.96,-1152.92 1705.25,-1142.35 1698.81,-1145.1" style=""/>
+</g>
+<!-- Energy Matrix -->
+<g id="node32" class="node" pointer-events="visible" data-name="Energy Matrix">
+
+<ellipse fill="none" stroke="black" cx="3096.63" cy="-275.6" rx="67.74" ry="18" style=""/>
+<text text-anchor="middle" x="3096.63" y="-271.4" font-family="Times,serif" font-size="14.00" style="">Energy Matrix</text>
+</g>
+<!-- 18&#45;&gt;Energy Matrix -->
+<g id="edge29" class="edge" data-name="18-&gt;Energy Matrix">
+
+<path fill="none" stroke="black" d="M842.32,-235.93C862.65,-231.03 990.9,-200.57 1096.87,-185.6 1366.7,-147.5 1435.29,-133.6 1707.8,-133.6 1707.8,-133.6 1707.8,-133.6 2669.85,-133.6 2819.81,-133.6 2984.93,-213.85 3057.66,-253.69" style=""/>
+<polygon fill="black" stroke="black" points="3055.54,-256.51 3065.98,-258.3 3058.93,-250.39 3055.54,-256.51" style=""/>
+</g>
+<!-- Energy Matrix&#45;&gt;75 -->
+<g id="edge158" class="edge" data-name="Energy Matrix-&gt;75">
+
+<path fill="none" stroke="black" d="M3107.75,-293.79C3126.36,-327.91 3166.24,-404.22 3189.73,-472.6 3208.72,-527.88 3221.11,-596.55 3225.99,-626.48" style=""/>
+<polygon fill="black" stroke="black" points="3222.53,-627 3227.54,-636.34 3229.44,-625.91 3222.53,-627" style=""/>
+</g>
+<!-- Hydrogen Fuel Rod -->
+<g id="node35" class="node" pointer-events="visible" data-name="Hydrogen Fuel Rod">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-678.6" rx="88" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-674.4" font-family="Times,serif" font-size="14.00" style="">Hydrogen Fuel Rod</text>
+</g>
+<!-- 19&#45;&gt;Hydrogen Fuel Rod -->
+<g id="edge32" class="edge" data-name="19-&gt;Hydrogen Fuel Rod">
+
+<path fill="none" stroke="black" d="M1061.36,-678.6C1069.73,-678.6 1094.07,-678.6 1121.25,-678.6" style=""/>
+<polygon fill="black" stroke="black" points="1121.1,-682.1 1131.1,-678.6 1121.1,-675.1 1121.1,-682.1" style=""/>
+</g>
+<!-- Titanium Ingot -->
+<g id="node34" class="node" pointer-events="visible" data-name="Titanium Ingot">
+
+<ellipse fill="none" stroke="black" cx="947.91" cy="-564.6" rx="69.48" ry="18" style=""/>
+<text text-anchor="middle" x="947.91" y="-560.4" font-family="Times,serif" font-size="14.00" style="">Titanium Ingot</text>
+</g>
+<!-- Titanium Ingot&#45;&gt;19 -->
+<g id="edge30" class="edge" data-name="Titanium Ingot-&gt;19">
+
+<path fill="none" stroke="black" d="M965.69,-582.41C988.38,-606.51 1028.12,-648.71 1046.47,-668.19" style=""/>
+<polygon fill="black" stroke="black" points="1043.78,-670.44 1053.19,-675.32 1048.88,-665.64 1043.78,-670.44" style=""/>
+</g>
+<!-- 26 -->
+<g id="node50" class="node" pointer-events="visible" data-name="26">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-358.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Titanium Ingot&#45;&gt;26 -->
+<g id="edge51" class="edge" data-name="Titanium Ingot-&gt;26">
+
+<path fill="none" stroke="black" d="M973.57,-547.51C994.34,-533.55 1025.15,-513.87 1053.67,-499.6 1178.13,-437.32 1222.63,-451.28 1345.33,-385.6 1355.09,-380.37 1365.33,-373.12 1372.81,-367.44" style=""/>
+<polygon fill="black" stroke="black" points="1374.73,-370.38 1380.43,-361.45 1370.4,-364.88 1374.73,-370.38" style=""/>
+</g>
+<!-- Titanium Ingot&#45;&gt;30 -->
+<g id="edge65" class="edge" data-name="Titanium Ingot-&gt;30">
+
+<path fill="none" stroke="black" d="M983.68,-548.77C994.6,-543.7 1006.68,-538 1017.67,-532.6 1026.35,-528.33 1036.01,-523.33 1043.5,-519.39" style=""/>
+<polygon fill="black" stroke="black" points="1044.95,-522.58 1052.15,-514.81 1041.67,-516.4 1044.95,-522.58" style=""/>
+</g>
+<!-- 33 -->
+<g id="node65" class="node" pointer-events="visible" data-name="33">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-556.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Titanium Ingot&#45;&gt;33 -->
+<g id="edge75" class="edge" data-name="Titanium Ingot-&gt;33">
+
+<path fill="none" stroke="black" d="M1017.36,-563.34C1122.12,-561.41 1315.75,-557.85 1369.67,-556.86" style=""/>
+<polygon fill="black" stroke="black" points="1369.71,-560.36 1379.64,-556.68 1369.58,-553.36 1369.71,-560.36" style=""/>
+</g>
+<!-- 66 -->
+<g id="node112" class="node" pointer-events="visible" data-name="66">
+
+<ellipse fill="black" stroke="black" cx="1057.27" cy="-537.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Titanium Ingot&#45;&gt;66 -->
+<g id="edge141" class="edge" data-name="Titanium Ingot-&gt;66">
+
+<path fill="none" stroke="black" d="M998.82,-552.05C1014.84,-548.02 1031.3,-543.88 1042.48,-541.07" style=""/>
+<polygon fill="black" stroke="black" points="1043.06,-544.53 1051.9,-538.7 1041.35,-537.74 1043.06,-544.53" style=""/>
+</g>
+<!-- Thruster -->
+<g id="node38" class="node" pointer-events="visible" data-name="Thruster">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-1252.6" rx="43.5" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-1248.4" font-family="Times,serif" font-size="14.00" style="">Thruster</text>
+</g>
+<!-- 20&#45;&gt;Thruster -->
+<g id="edge35" class="edge" data-name="20-&gt;Thruster">
+
+<path fill="none" stroke="black" d="M1061.36,-1238.87C1074.35,-1239.99 1125.79,-1244.44 1166.64,-1247.98" style=""/>
+<polygon fill="black" stroke="black" points="1166.34,-1251.46 1176.6,-1248.84 1166.94,-1244.49 1166.34,-1251.46" style=""/>
+</g>
+<!-- Steel -->
+<g id="node37" class="node" pointer-events="visible" data-name="Steel">
+
+<ellipse fill="none" stroke="black" cx="947.91" cy="-1230.6" rx="30.19" ry="18" style=""/>
+<text text-anchor="middle" x="947.91" y="-1226.4" font-family="Times,serif" font-size="14.00" style="">Steel</text>
+</g>
+<!-- Steel&#45;&gt;20 -->
+<g id="edge33" class="edge" data-name="Steel-&gt;20">
+
+<path fill="none" stroke="black" d="M978.25,-1232.79C998.97,-1234.33 1025.84,-1236.33 1042.03,-1237.54" style=""/>
+<polygon fill="black" stroke="black" points="1041.67,-1241.02 1051.9,-1238.27 1042.19,-1234.04 1041.67,-1241.02" style=""/>
+</g>
+<!-- Steel&#45;&gt;66 -->
+<g id="edge142" class="edge" data-name="Steel-&gt;66">
+
+<path fill="none" stroke="black" d="M967.88,-1216.79C984.3,-1203.62 1007.01,-1182.2 1017.67,-1157.6 1042.4,-1100.54 1053.9,-642.97 1055.94,-552.95" style=""/>
+<polygon fill="black" stroke="black" points="1059.44,-553.05 1056.16,-542.97 1052.44,-552.89 1059.44,-553.05" style=""/>
+</g>
+<!-- Steel&#45;&gt;112 -->
+<g id="edge217" class="edge" data-name="Steel-&gt;112">
+
+<path fill="none" stroke="black" d="M975.03,-1239.21C988.15,-1243.94 1004.11,-1250.33 1017.67,-1257.6 1027.44,-1262.84 1037.67,-1270.09 1045.15,-1275.76" style=""/>
+<polygon fill="black" stroke="black" points="1042.75,-1278.32 1052.77,-1281.75 1047.07,-1272.82 1042.75,-1278.32" style=""/>
+</g>
+<!-- 21 -->
+<g id="node39" class="node" pointer-events="visible" data-name="21">
+
+<ellipse fill="black" stroke="black" cx="1708.8" cy="-816.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Reinforced Thruster -->
+<g id="node42" class="node" pointer-events="visible" data-name="Reinforced Thruster">
+
+<ellipse fill="none" stroke="black" cx="1842.85" cy="-790.6" rx="89.13" ry="18" style=""/>
+<text text-anchor="middle" x="1842.85" y="-786.4" font-family="Times,serif" font-size="14.00" style="">Reinforced Thruster</text>
+</g>
+<!-- 21&#45;&gt;Reinforced Thruster -->
+<g id="edge38" class="edge" data-name="21-&gt;Reinforced Thruster">
+
+<path fill="none" stroke="black" d="M1712.56,-816.06C1720.17,-814.56 1742.5,-810.16 1766.51,-805.43" style=""/>
+<polygon fill="black" stroke="black" points="1766.99,-808.91 1776.13,-803.54 1765.64,-802.04 1766.99,-808.91" style=""/>
+</g>
+<!-- Titanium Alloy -->
+<g id="node40" class="node" pointer-events="visible" data-name="Titanium Alloy">
+
+<ellipse fill="none" stroke="black" cx="1546.86" cy="-672.6" rx="70.7" ry="18" style=""/>
+<text text-anchor="middle" x="1546.86" y="-668.4" font-family="Times,serif" font-size="14.00" style="">Titanium Alloy</text>
+</g>
+<!-- Titanium Alloy&#45;&gt;21 -->
+<g id="edge36" class="edge" data-name="Titanium Alloy-&gt;21">
+
+<path fill="none" stroke="black" d="M1567.47,-690.26C1601.49,-720.88 1670.35,-782.88 1696.96,-806.84" style=""/>
+<polygon fill="black" stroke="black" points="1694.45,-809.29 1704.23,-813.38 1699.14,-804.09 1694.45,-809.29" style=""/>
+</g>
+<!-- 41 -->
+<g id="node80" class="node" pointer-events="visible" data-name="41">
+
+<ellipse fill="black" stroke="black" cx="1976.89" cy="-1032.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Titanium Alloy&#45;&gt;41 -->
+<g id="edge92" class="edge" data-name="Titanium Alloy-&gt;41">
+
+<path fill="none" stroke="black" d="M1616.82,-669.23C1716.36,-665.95 1893.25,-666.61 1937.29,-709.6 1959.65,-731.42 1972.19,-956.81 1975.19,-1017.58" style=""/>
+<polygon fill="black" stroke="black" points="1971.68,-1017.49 1975.65,-1027.32 1978.67,-1017.16 1971.68,-1017.49" style=""/>
+</g>
+<!-- Titanium Alloy&#45;&gt;44 -->
+<g id="edge102" class="edge" data-name="Titanium Alloy-&gt;44">
+
+<path fill="none" stroke="black" d="M1616.85,-669.78C1712.52,-665.18 1880.15,-654.4 1937.29,-633.6 1977.32,-619.03 1976.4,-594.02 2016.49,-579.6 2163.95,-526.56 2359.35,-536.37 2413.49,-540.39" style=""/>
+<polygon fill="black" stroke="black" points="2413.1,-543.87 2423.35,-541.19 2413.66,-536.89 2413.1,-543.87" style=""/>
+</g>
+<!-- 80 -->
+<g id="node127" class="node" pointer-events="visible" data-name="80">
+
+<ellipse fill="black" stroke="black" cx="1708.8" cy="-620.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Titanium Alloy&#45;&gt;80 -->
+<g id="edge169" class="edge" data-name="Titanium Alloy-&gt;80">
+
+<path fill="none" stroke="black" d="M1602.13,-661C1623.38,-655.76 1647.75,-648.87 1669.2,-640.6 1678.22,-637.12 1687.88,-632.12 1695.28,-627.98" style=""/>
+<polygon fill="black" stroke="black" points="1696.9,-631.09 1703.78,-623.03 1693.38,-625.04 1696.9,-631.09" style=""/>
+</g>
+<!-- Electromagnetic Turbine -->
+<g id="node41" class="node" pointer-events="visible" data-name="Electromagnetic Turbine">
+
+<ellipse fill="none" stroke="black" cx="1546.86" cy="-1230.6" rx="107.09" ry="18" style=""/>
+<text text-anchor="middle" x="1546.86" y="-1226.4" font-family="Times,serif" font-size="14.00" style="">Electromagnetic Turbine</text>
+</g>
+<!-- Electromagnetic Turbine&#45;&gt;21 -->
+<g id="edge37" class="edge" data-name="Electromagnetic Turbine-&gt;21">
+
+<path fill="none" stroke="black" d="M1642.65,-1222.25C1652.71,-1217.88 1661.91,-1211.85 1669.2,-1203.6 1722.47,-1143.32 1694.71,-929 1705.41,-831.45" style=""/>
+<polygon fill="black" stroke="black" points="1708.87,-832.02 1706.72,-821.65 1701.93,-831.1 1708.87,-832.02" style=""/>
+</g>
+<!-- Electromagnetic Turbine&#45;&gt;99 -->
+<g id="edge187" class="edge" data-name="Electromagnetic Turbine-&gt;99">
+
+<path fill="none" stroke="black" d="M1641.93,-1222C1652.18,-1217.68 1661.62,-1211.73 1669.2,-1203.6 1703.76,-1166.55 1696.53,-1033.72 1705.22,-967.36" style=""/>
+<polygon fill="black" stroke="black" points="1708.65,-968.07 1706.73,-957.65 1701.73,-966.99 1708.65,-968.07" style=""/>
+</g>
+<!-- Electromagnetic Turbine&#45;&gt;103 -->
+<g id="edge200" class="edge" data-name="Electromagnetic Turbine-&gt;103">
+
+<path fill="none" stroke="black" d="M1632.23,-1219.36C1645.17,-1215.54 1657.95,-1210.43 1669.2,-1203.6 1682.67,-1195.42 1693.69,-1180.87 1700.45,-1170.32" style=""/>
+<polygon fill="black" stroke="black" points="1703.32,-1172.34 1705.42,-1161.96 1697.3,-1168.77 1703.32,-1172.34" style=""/>
+</g>
+<!-- Plastic -->
+<g id="node44" class="node" pointer-events="visible" data-name="Plastic">
+
+<ellipse fill="none" stroke="black" cx="947.91" cy="-152.6" rx="36.57" ry="18" style=""/>
+<text text-anchor="middle" x="947.91" y="-148.4" font-family="Times,serif" font-size="14.00" style="">Plastic</text>
+</g>
+<!-- 23&#45;&gt;Plastic -->
+<g id="edge41" class="edge" data-name="23-&gt;Plastic">
+
+<path fill="none" stroke="black" d="M842.65,-152.6C851.25,-152.6 876.32,-152.6 899.72,-152.6" style=""/>
+<polygon fill="black" stroke="black" points="899.48,-156.1 909.48,-152.6 899.48,-149.1 899.48,-156.1" style=""/>
+</g>
+<!-- Plastic&#45;&gt;25 -->
+<g id="edge46" class="edge" data-name="Plastic-&gt;25">
+
+<path fill="none" stroke="black" d="M963.17,-169.2C985.42,-195.11 1027.81,-244.46 1046.74,-266.5" style=""/>
+<polygon fill="black" stroke="black" points="1043.95,-268.63 1053.12,-273.93 1049.26,-264.07 1043.95,-268.63" style=""/>
+</g>
+<!-- 36 -->
+<g id="node71" class="node" pointer-events="visible" data-name="36">
+
+<ellipse fill="black" stroke="black" cx="1708.8" cy="-444.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Plastic&#45;&gt;36 -->
+<g id="edge83" class="edge" data-name="Plastic-&gt;36">
+
+<path fill="none" stroke="black" d="M984.73,-152.04C1054.94,-151.71 1215.12,-154.79 1345.33,-185.6 1496.26,-221.32 1564.62,-201.05 1669.2,-315.6 1698.99,-348.23 1705.83,-402.99 1707.37,-429.42" style=""/>
+<polygon fill="black" stroke="black" points="1703.87,-429.49 1707.74,-439.36 1710.87,-429.23 1703.87,-429.49" style=""/>
+</g>
+<!-- Sulfuric Acid -->
+<g id="node47" class="node" pointer-events="visible" data-name="Sulfuric Acid">
+
+<ellipse fill="none" stroke="black" cx="947.91" cy="-472.6" rx="63.17" ry="18" style=""/>
+<text text-anchor="middle" x="947.91" y="-468.4" font-family="Times,serif" font-size="14.00" style="">Sulfuric Acid</text>
+</g>
+<!-- 24&#45;&gt;Sulfuric Acid -->
+<g id="edge45" class="edge" data-name="24-&gt;Sulfuric Acid">
+
+<path fill="none" stroke="black" d="M842.65,-473.57C847.96,-473.52 859.58,-473.41 873.21,-473.29" style=""/>
+<polygon fill="black" stroke="black" points="873.01,-476.79 882.97,-473.2 872.94,-469.79 873.01,-476.79" style=""/>
+</g>
+<!-- Water -->
+<g id="node46" class="node" pointer-events="visible" data-name="Water">
+
+<ellipse fill="none" stroke="black" cx="714.72" cy="-428.6" rx="34.75" ry="18" style=""/>
+<text text-anchor="middle" x="714.72" y="-424.4" font-family="Times,serif" font-size="14.00" style="">Water</text>
+</g>
+<!-- Water&#45;&gt;24 -->
+<g id="edge44" class="edge" data-name="Water-&gt;24">
+
+<path fill="none" stroke="black" d="M743.67,-438.92C768.77,-448.19 804.55,-461.41 823.89,-468.55" style=""/>
+<polygon fill="black" stroke="black" points="822.66,-471.83 833.25,-472.01 825.09,-465.26 822.66,-471.83" style=""/>
+</g>
+<!-- Water&#45;&gt;25 -->
+<g id="edge48" class="edge" data-name="Water-&gt;25">
+
+<path fill="none" stroke="black" d="M745.73,-419.94C761.72,-415.06 781.61,-408.55 798.95,-401.6 895.71,-362.8 1007.07,-304.11 1043.81,-284.36" style=""/>
+<polygon fill="black" stroke="black" points="1045.08,-287.65 1052.21,-279.81 1041.75,-281.49 1045.08,-287.65" style=""/>
+</g>
+<!-- Water&#45;&gt;30 -->
+<g id="edge66" class="edge" data-name="Water-&gt;30">
+
+<path fill="none" stroke="black" d="M746.81,-421.34C804.91,-409.6 931.84,-392.72 1017.67,-445.6 1036.78,-457.37 1047.39,-482.34 1052.46,-498.25" style=""/>
+<polygon fill="black" stroke="black" points="1048.99,-498.86 1055.06,-507.54 1055.73,-496.97 1048.99,-498.86" style=""/>
+</g>
+<!-- 54 -->
+<g id="node96" class="node" pointer-events="visible" data-name="54">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-356.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Water&#45;&gt;54 -->
+<g id="edge118" class="edge" data-name="Water-&gt;54">
+
+<path fill="none" stroke="black" d="M747.98,-422.5C764.22,-418.38 783.65,-411.79 798.95,-401.6 811.76,-393.07 822.77,-379.15 829.72,-369.05" style=""/>
+<polygon fill="black" stroke="black" points="832.58,-371.08 835.05,-360.77 826.69,-367.29 832.58,-371.08" style=""/>
+</g>
+<!-- Sulfuric Acid&#45;&gt;31 -->
+<g id="edge69" class="edge" data-name="Sulfuric Acid-&gt;31">
+
+<path fill="none" stroke="black" d="M977.12,-456.31C998.9,-443.73 1027.97,-426.94 1044.13,-417.61" style=""/>
+<polygon fill="black" stroke="black" points="1045.42,-420.91 1052.33,-412.88 1041.92,-414.85 1045.42,-420.91" style=""/>
+</g>
+<!-- Sulfuric Acid&#45;&gt;66 -->
+<g id="edge143" class="edge" data-name="Sulfuric Acid-&gt;66">
+
+<path fill="none" stroke="black" d="M976,-489C997.78,-502.19 1027.38,-520.11 1043.87,-530.09" style=""/>
+<polygon fill="black" stroke="black" points="1041.92,-533 1052.28,-535.19 1045.54,-527.01 1041.92,-533" style=""/>
+</g>
+<!-- Organic Crystal -->
+<g id="node49" class="node" pointer-events="visible" data-name="Organic Crystal">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-358.6" rx="72.4" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-354.4" font-family="Times,serif" font-size="14.00" style="">Organic Crystal</text>
+</g>
+<!-- 25&#45;&gt;Organic Crystal -->
+<g id="edge49" class="edge" data-name="25-&gt;Organic Crystal">
+
+<path fill="none" stroke="black" d="M1059.6,-280.33C1063.79,-288.68 1077.65,-314.04 1096.87,-326.6 1111.37,-336.07 1128.53,-342.74 1145.37,-347.44" style=""/>
+<polygon fill="black" stroke="black" points="1144.34,-350.79 1154.89,-349.88 1146.07,-344.01 1144.34,-350.79" style=""/>
+</g>
+<!-- Organic Crystal&#45;&gt;26 -->
+<g id="edge50" class="edge" data-name="Organic Crystal-&gt;26">
+
+<path fill="none" stroke="black" d="M1293.55,-358.6C1322.1,-358.6 1352.25,-358.6 1369.5,-358.6" style=""/>
+<polygon fill="black" stroke="black" points="1369.47,-362.1 1379.47,-358.6 1369.47,-355.1 1369.47,-362.1" style=""/>
+</g>
+<!-- Titanium Crystal -->
+<g id="node51" class="node" pointer-events="visible" data-name="Titanium Crystal">
+
+<ellipse fill="none" stroke="black" cx="1546.86" cy="-342.6" rx="77" ry="18" style=""/>
+<text text-anchor="middle" x="1546.86" y="-338.4" font-family="Times,serif" font-size="14.00" style="">Titanium Crystal</text>
+</g>
+<!-- 26&#45;&gt;Titanium Crystal -->
+<g id="edge52" class="edge" data-name="26-&gt;Titanium Crystal">
+
+<path fill="none" stroke="black" d="M1388.98,-358.29C1398.87,-357.3 1431.32,-354.06 1464.17,-350.77" style=""/>
+<polygon fill="black" stroke="black" points="1464.18,-354.29 1473.78,-349.81 1463.48,-347.32 1464.18,-354.29" style=""/>
+</g>
+<!-- 27 -->
+<g id="node52" class="node" pointer-events="visible" data-name="27">
+
+<ellipse fill="black" stroke="black" cx="1708.8" cy="-3.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Titanium Crystal&#45;&gt;27 -->
+<g id="edge54" class="edge" data-name="Titanium Crystal-&gt;27">
+
+<path fill="none" stroke="black" d="M1558.76,-324.46C1581.32,-286.46 1633.93,-195.34 1669.2,-114.6 1683.94,-80.86 1697.08,-39.53 1703.55,-18.07" style=""/>
+<polygon fill="black" stroke="black" points="1706.88,-19.16 1706.36,-8.58 1700.17,-17.17 1706.88,-19.16" style=""/>
+</g>
+<!-- Titanium Crystal&#45;&gt;28 -->
+<g id="edge56" class="edge" data-name="Titanium Crystal-&gt;28">
+
+<path fill="none" stroke="black" d="M1596.82,-356.62C1622.56,-366.6 1652.22,-382.73 1669.2,-407.6 1686.73,-433.27 1702.73,-654.19 1706.81,-714.46" style=""/>
+<polygon fill="black" stroke="black" points="1703.31,-714.64 1707.46,-724.39 1710.29,-714.18 1703.31,-714.64" style=""/>
+</g>
+<!-- Structure Matrix -->
+<g id="node54" class="node" pointer-events="visible" data-name="Structure Matrix">
+
+<ellipse fill="none" stroke="black" cx="2668.85" cy="-45.6" rx="75.26" ry="18" style=""/>
+<text text-anchor="middle" x="2668.85" y="-41.4" font-family="Times,serif" font-size="14.00" style="">Structure Matrix</text>
+</g>
+<!-- 27&#45;&gt;Structure Matrix -->
+<g id="edge55" class="edge" data-name="27-&gt;Structure Matrix">
+
+<path fill="none" stroke="black" d="M1712.69,-3.6C1733.85,-3.6 1867.33,-3.6 1975.89,-3.6 1975.89,-3.6 1975.89,-3.6 2149.23,-3.6 2306.66,-3.6 2490.11,-23.07 2591.18,-35.49" style=""/>
+<polygon fill="black" stroke="black" points="2590.63,-38.95 2600.99,-36.71 2591.5,-32.01 2590.63,-38.95" style=""/>
+</g>
+<!-- Diamond -->
+<g id="node53" class="node" pointer-events="visible" data-name="Diamond">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-33.6" rx="46.95" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-29.4" font-family="Times,serif" font-size="14.00" style="">Diamond</text>
+</g>
+<!-- Diamond&#45;&gt;27 -->
+<g id="edge53" class="edge" data-name="Diamond-&gt;27">
+
+<path fill="none" stroke="black" d="M1267.79,-30.78C1373.61,-24.24 1631.21,-8.33 1693.89,-4.46" style=""/>
+<polygon fill="black" stroke="black" points="1693.75,-7.97 1703.51,-3.86 1693.31,-0.99 1693.75,-7.97" style=""/>
+</g>
+<!-- 101 -->
+<g id="node139" class="node" pointer-events="visible" data-name="101">
+
+<ellipse fill="black" stroke="black" cx="2428.92" cy="-759.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Diamond&#45;&gt;101 -->
+<g id="edge194" class="edge" data-name="Diamond-&gt;101">
+
+<path fill="none" stroke="black" d="M1268.2,-35.46C1330.99,-37.82 1446.91,-41.6 1545.86,-41.6 1545.86,-41.6 1545.86,-41.6 1709.8,-41.6 1811.26,-41.6 1863.64,9.18 1937.29,-60.6 2123.92,-237.41 1849.79,-437.88 2016.49,-633.6 2043.96,-665.86 2345.85,-739.89 2414.21,-756.33" style=""/>
+<polygon fill="black" stroke="black" points="2413.06,-759.65 2423.6,-758.57 2414.69,-752.84 2413.06,-759.65" style=""/>
+</g>
+<!-- 107 -->
+<g id="node146" class="node" pointer-events="visible" data-name="107">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-79.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Diamond&#45;&gt;107 -->
+<g id="edge211" class="edge" data-name="Diamond-&gt;107">
+
+<path fill="none" stroke="black" d="M1261.77,-42.9C1286.05,-48.84 1317.67,-57.02 1345.33,-65.6 1353.84,-68.24 1363.24,-71.64 1370.63,-74.43" style=""/>
+<polygon fill="black" stroke="black" points="1369.15,-77.61 1379.74,-77.94 1371.67,-71.08 1369.15,-77.61" style=""/>
+</g>
+<!-- Structure Matrix&#45;&gt;75 -->
+<g id="edge159" class="edge" data-name="Structure Matrix-&gt;75">
+
+<path fill="none" stroke="black" d="M2743.34,-48.83C2861.99,-58.53 3092.27,-97 3189.73,-248.6 3231,-312.8 3229.68,-562.62 3228.63,-626.6" style=""/>
+<polygon fill="black" stroke="black" points="3225.14,-626.42 3228.44,-636.48 3232.14,-626.55 3225.14,-626.42" style=""/>
+</g>
+<!-- Casimir Crystal -->
+<g id="node57" class="node" pointer-events="visible" data-name="Casimir Crystal">
+
+<ellipse fill="none" stroke="black" cx="1842.85" cy="-736.6" rx="71.85" ry="18" style=""/>
+<text text-anchor="middle" x="1842.85" y="-732.4" font-family="Times,serif" font-size="14.00" style="">Casimir Crystal</text>
+</g>
+<!-- 28&#45;&gt;Casimir Crystal -->
+<g id="edge59" class="edge" data-name="28-&gt;Casimir Crystal">
+
+<path fill="none" stroke="black" d="M1712.56,-729.75C1719.59,-730.12 1739.2,-731.16 1761.08,-732.32" style=""/>
+<polygon fill="black" stroke="black" points="1760.63,-735.8 1770.8,-732.83 1761,-728.81 1760.63,-735.8" style=""/>
+</g>
+<!-- Graphene -->
+<g id="node56" class="node" pointer-events="visible" data-name="Graphene">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-824.6" rx="48.64" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-820.4" font-family="Times,serif" font-size="14.00" style="">Graphene</text>
+</g>
+<!-- Graphene&#45;&gt;28 -->
+<g id="edge57" class="edge" data-name="Graphene-&gt;28">
+
+<path fill="none" stroke="black" d="M1265.22,-816.59C1289.03,-811.81 1319.03,-805.2 1345.33,-797.6 1361.67,-792.88 1365.23,-790.11 1381.33,-784.6 1400.42,-778.06 1404.87,-775.17 1424.53,-770.6 1526.26,-746.93 1651.9,-734.49 1693.61,-730.8" style=""/>
+<polygon fill="black" stroke="black" points="1693.8,-734.29 1703.47,-729.95 1693.21,-727.32 1693.8,-734.29" style=""/>
+</g>
+<!-- Graphene&#45;&gt;29 -->
+<g id="edge61" class="edge" data-name="Graphene-&gt;29">
+
+<path fill="none" stroke="black" d="M1265.89,-817.29C1300.6,-811.5 1346.94,-803.77 1369.86,-799.95" style=""/>
+<polygon fill="black" stroke="black" points="1370.41,-803.4 1379.69,-798.31 1369.25,-796.5 1370.41,-803.4" style=""/>
+</g>
+<!-- Graphene&#45;&gt;33 -->
+<g id="edge74" class="edge" data-name="Graphene-&gt;33">
+
+<path fill="none" stroke="black" d="M1269.89,-826.34C1295.75,-824.62 1326.23,-817.82 1345.33,-797.6 1376.31,-764.8 1382.46,-619.78 1383.65,-571.96" style=""/>
+<polygon fill="black" stroke="black" points="1387.15,-572.05 1383.85,-561.98 1380.15,-571.91 1387.15,-572.05" style=""/>
+</g>
+<!-- 70 -->
+<g id="node116" class="node" pointer-events="visible" data-name="70">
+
+<ellipse fill="black" stroke="black" cx="1708.8" cy="-841.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Graphene&#45;&gt;70 -->
+<g id="edge151" class="edge" data-name="Graphene-&gt;70">
+
+<path fill="none" stroke="black" d="M1270,-826.28C1377.01,-830.02 1631.01,-838.91 1693.65,-841.1" style=""/>
+<polygon fill="black" stroke="black" points="1693.43,-844.6 1703.54,-841.45 1693.67,-837.6 1693.43,-844.6" style=""/>
+</g>
+<!-- Graphene&#45;&gt;99 -->
+<g id="edge189" class="edge" data-name="Graphene-&gt;99">
+
+<path fill="none" stroke="black" d="M1268.14,-829.84C1351.06,-840.43 1529.84,-868.58 1669.2,-927.6 1679.04,-931.77 1689.15,-938.41 1696.55,-943.81" style=""/>
+<polygon fill="black" stroke="black" points="1694.27,-946.47 1704.33,-949.79 1698.53,-940.92 1694.27,-946.47" style=""/>
+</g>
+<!-- 38 -->
+<g id="node76" class="node" pointer-events="visible" data-name="38">
+
+<ellipse fill="black" stroke="black" cx="1976.89" cy="-736.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Casimir Crystal&#45;&gt;38 -->
+<g id="edge87" class="edge" data-name="Casimir Crystal-&gt;38">
+
+<path fill="none" stroke="black" d="M1914.89,-736.6C1932.75,-736.6 1950.11,-736.6 1961.72,-736.6" style=""/>
+<polygon fill="black" stroke="black" points="1961.43,-740.1 1971.43,-736.6 1961.43,-733.1 1961.43,-740.1" style=""/>
+</g>
+<!-- 29&#45;&gt;Casimir Crystal -->
+<g id="edge63" class="edge" data-name="29-&gt;Casimir Crystal">
+
+<path fill="none" stroke="black" d="M1389.01,-797.42C1411.65,-796.1 1554.32,-787.34 1669.2,-770.6 1705.03,-765.38 1744.69,-757.7 1776.95,-750.97" style=""/>
+<polygon fill="black" stroke="black" points="1777.5,-754.43 1786.56,-748.94 1776.05,-747.58 1777.5,-754.43" style=""/>
+</g>
+<!-- Optical Grating Crystal -->
+<g id="node59" class="node" pointer-events="visible" data-name="Optical Grating Crystal">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-916.6" rx="101.87" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-912.4" font-family="Times,serif" font-size="14.00" style="">Optical Grating Crystal</text>
+</g>
+<!-- Optical Grating Crystal&#45;&gt;29 -->
+<g id="edge60" class="edge" data-name="Optical Grating Crystal-&gt;29">
+
+<path fill="none" stroke="black" d="M1264.77,-900.02C1289.99,-888.85 1321.55,-872.36 1345.33,-851.6 1358.99,-839.67 1370.44,-822.01 1377.23,-810.16" style=""/>
+<polygon fill="black" stroke="black" points="1380.11,-812.2 1381.81,-801.74 1373.96,-808.86 1380.11,-812.2" style=""/>
+</g>
+<!-- Optical Grating Crystal&#45;&gt;69 -->
+<g id="edge148" class="edge" data-name="Optical Grating Crystal-&gt;69">
+
+<path fill="none" stroke="black" d="M1235.41,-934.8C1258.61,-966.77 1307.57,-1035.33 1345.33,-1095.6 1357.13,-1114.45 1369.64,-1137.02 1377.11,-1150.84" style=""/>
+<polygon fill="black" stroke="black" points="1373.87,-1152.2 1381.68,-1159.36 1380.04,-1148.9 1373.87,-1152.2" style=""/>
+</g>
+<!-- Titanium Glass -->
+<g id="node61" class="node" pointer-events="visible" data-name="Titanium Glass">
+
+<ellipse fill="none" stroke="black" cx="1546.86" cy="-542.6" rx="70.13" ry="18" style=""/>
+<text text-anchor="middle" x="1546.86" y="-538.4" font-family="Times,serif" font-size="14.00" style="">Titanium Glass</text>
+</g>
+<!-- 30&#45;&gt;Titanium Glass -->
+<g id="edge67" class="edge" data-name="30-&gt;Titanium Glass">
+
+<path fill="none" stroke="black" d="M1061.05,-511.82C1067.36,-510.09 1083.26,-506 1096.87,-504.6 1225.82,-491.38 1260.32,-485.45 1388.53,-504.6 1405.07,-507.07 1408.35,-511.34 1424.53,-515.6 1442.41,-520.31 1461.92,-524.9 1479.97,-528.91" style=""/>
+<polygon fill="black" stroke="black" points="1478.99,-532.28 1489.5,-531.01 1480.49,-525.44 1478.99,-532.28" style=""/>
+</g>
+<!-- Titanium Glass&#45;&gt;38 -->
+<g id="edge88" class="edge" data-name="Titanium Glass-&gt;38">
+
+<path fill="none" stroke="black" d="M1599.83,-530.48C1682.04,-514.64 1842.45,-497.71 1937.29,-579.6 1958.86,-598.22 1970.49,-686.05 1974.39,-721.61" style=""/>
+<polygon fill="black" stroke="black" points="1970.9,-721.91 1975.41,-731.5 1977.86,-721.2 1970.9,-721.91" style=""/>
+</g>
+<!-- 31&#45;&gt;Graphene -->
+<g id="edge70" class="edge" data-name="31-&gt;Graphene">
+
+<path fill="none" stroke="black" d="M1058.38,-414.12C1059.49,-451.06 1069.83,-767.21 1096.87,-797.6 1112.89,-815.6 1137.89,-823.11 1161.2,-825.83" style=""/>
+<polygon fill="black" stroke="black" points="1160.69,-829.3 1170.96,-826.68 1161.29,-822.33 1160.69,-829.3" style=""/>
+</g>
+<!-- 32 -->
+<g id="node63" class="node" pointer-events="visible" data-name="32">
+
+<ellipse fill="black" stroke="black" cx="179.16" cy="-663.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- 32&#45;&gt;Hydrogen -->
+<g id="edge73" class="edge" data-name="32-&gt;Hydrogen">
+
+<path fill="none" stroke="black" d="M183.06,-662.47C189.63,-659.91 206.35,-653.4 223.19,-646.83" style=""/>
+<polygon fill="black" stroke="black" points="224.14,-650.22 232.19,-643.33 221.6,-643.69 224.14,-650.22" style=""/>
+</g>
+<!-- 32&#45;&gt;Graphene -->
+<g id="edge72" class="edge" data-name="32-&gt;Graphene">
+
+<path fill="none" stroke="black" d="M180.53,-667.29C185.39,-714.38 237.99,-1196.6 356.67,-1196.6 356.67,-1196.6 356.67,-1196.6 715.72,-1196.6 779.11,-1196.6 790.54,-1167.4 842.15,-1130.6 969.05,-1040.12 970.17,-980.35 1096.87,-889.6 1122.42,-871.3 1153.78,-854.83 1178.47,-843.05" style=""/>
+<polygon fill="black" stroke="black" points="1179.67,-846.35 1187.24,-838.94 1176.7,-840.01 1179.67,-846.35" style=""/>
+</g>
+<!-- Fire Ice -->
+<g id="node64" class="node" pointer-events="visible" data-name="Fire Ice">
+
+<ellipse fill="none" stroke="black" cx="69.78" cy="-663.6" rx="40.59" ry="18" style=""/>
+<text text-anchor="middle" x="69.78" y="-659.4" font-family="Times,serif" font-size="14.00" style="">Fire Ice</text>
+</g>
+<!-- Fire Ice&#45;&gt;32 -->
+<g id="edge71" class="edge" data-name="Fire Ice-&gt;32">
+
+<path fill="none" stroke="black" d="M110.76,-663.6C129.33,-663.6 150.24,-663.6 163.78,-663.6" style=""/>
+<polygon fill="black" stroke="black" points="163.6,-667.1 173.6,-663.6 163.6,-660.1 163.6,-667.1" style=""/>
+</g>
+<!-- Carbon Nanotube -->
+<g id="node66" class="node" pointer-events="visible" data-name="Carbon Nanotube">
+
+<ellipse fill="none" stroke="black" cx="1546.86" cy="-434.6" rx="79.35" ry="18" style=""/>
+<text text-anchor="middle" x="1546.86" y="-430.4" font-family="Times,serif" font-size="14.00" style="">Carbon Nanotube</text>
+</g>
+<!-- 33&#45;&gt;Carbon Nanotube -->
+<g id="edge76" class="edge" data-name="33-&gt;Carbon Nanotube">
+
+<path fill="none" stroke="black" d="M1386.23,-552.99C1387.61,-538.87 1394.62,-486.89 1424.53,-461.6 1434.63,-453.05 1446.86,-447.05 1459.61,-442.87" style=""/>
+<polygon fill="black" stroke="black" points="1460.32,-446.31 1468.96,-440.18 1458.38,-439.58 1460.32,-446.31" style=""/>
+</g>
+<!-- Carbon Nanotube&#45;&gt;36 -->
+<g id="edge81" class="edge" data-name="Carbon Nanotube-&gt;36">
+
+<path fill="none" stroke="black" d="M1623.62,-439.34C1650.32,-441.01 1677.65,-442.72 1693.66,-443.72" style=""/>
+<polygon fill="black" stroke="black" points="1693.12,-447.19 1703.32,-444.32 1693.56,-440.2 1693.12,-447.19" style=""/>
+</g>
+<!-- Carbon Nanotube&#45;&gt;80 -->
+<g id="edge168" class="edge" data-name="Carbon Nanotube-&gt;80">
+
+<path fill="none" stroke="black" d="M1624.84,-438.51C1641.23,-442.7 1657.18,-449.81 1669.2,-461.6 1689.79,-481.79 1702,-569.96 1706.17,-605.59" style=""/>
+<polygon fill="black" stroke="black" points="1702.69,-605.95 1707.27,-615.5 1709.65,-605.17 1702.69,-605.95" style=""/>
+</g>
+<!-- 108 -->
+<g id="node148" class="node" pointer-events="visible" data-name="108">
+
+<ellipse fill="black" stroke="black" cx="1708.8" cy="-87.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Carbon Nanotube&#45;&gt;108 -->
+<g id="edge214" class="edge" data-name="Carbon Nanotube-&gt;108">
+
+<path fill="none" stroke="black" d="M1596.96,-420.35C1622.58,-410.33 1652.08,-394.23 1669.2,-369.6 1699.75,-325.65 1706.24,-154.15 1707.51,-102.44" style=""/>
+<polygon fill="black" stroke="black" points="1711,-102.82 1707.71,-92.75 1704,-102.67 1711,-102.82" style=""/>
+</g>
+<!-- Silicon Ore -->
+<g id="node68" class="node" pointer-events="visible" data-name="Silicon Ore">
+
+<ellipse fill="none" stroke="black" cx="947.91" cy="-797.6" rx="55.08" ry="18" style=""/>
+<text text-anchor="middle" x="947.91" y="-793.4" font-family="Times,serif" font-size="14.00" style="">Silicon Ore</text>
+</g>
+<!-- 34&#45;&gt;Silicon Ore -->
+<g id="edge78" class="edge" data-name="34-&gt;Silicon Ore">
+
+<path fill="none" stroke="black" d="M842.2,-821.01C849.29,-819.42 869.55,-814.89 890.39,-810.24" style=""/>
+<polygon fill="black" stroke="black" points="891.13,-813.66 900.13,-808.06 889.6,-806.82 891.13,-813.66" style=""/>
+</g>
+<!-- 59 -->
+<g id="node103" class="node" pointer-events="visible" data-name="59">
+
+<ellipse fill="black" stroke="black" cx="1057.27" cy="-783.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Silicon Ore&#45;&gt;59 -->
+<g id="edge129" class="edge" data-name="Silicon Ore-&gt;59">
+
+<path fill="none" stroke="black" d="M999.76,-790.97C1015.29,-788.94 1031.13,-786.88 1042.08,-785.45" style=""/>
+<polygon fill="black" stroke="black" points="1042.24,-788.96 1051.7,-784.2 1041.33,-782.02 1042.24,-788.96" style=""/>
+</g>
+<!-- 35 -->
+<g id="node69" class="node" pointer-events="visible" data-name="35">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-234.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- 35&#45;&gt;Carbon Nanotube -->
+<g id="edge80" class="edge" data-name="35-&gt;Carbon Nanotube">
+
+<path fill="none" stroke="black" d="M1386.59,-238.32C1390.09,-257.78 1407.08,-347.97 1424.53,-369.6 1441.12,-390.17 1466.01,-405.09 1488.94,-415.41" style=""/>
+<polygon fill="black" stroke="black" points="1487.34,-418.54 1497.91,-419.24 1490.08,-412.1 1487.34,-418.54" style=""/>
+</g>
+<!-- Spiniform Stalagmite Crystal -->
+<g id="node70" class="node" pointer-events="visible" data-name="Spiniform Stalagmite Crystal">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-212.6" rx="124.46" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-208.4" font-family="Times,serif" font-size="14.00" style="">Spiniform Stalagmite Crystal</text>
+</g>
+<!-- Spiniform Stalagmite Crystal&#45;&gt;35 -->
+<g id="edge79" class="edge" data-name="Spiniform Stalagmite Crystal-&gt;35">
+
+<path fill="none" stroke="black" d="M1313.42,-225.01C1335.5,-228.02 1356.54,-230.88 1369.79,-232.68" style=""/>
+<polygon fill="black" stroke="black" points="1369.21,-236.13 1379.59,-234.01 1370.15,-229.19 1369.21,-236.13" style=""/>
+</g>
+<!-- Particle Broadband -->
+<g id="node73" class="node" pointer-events="visible" data-name="Particle Broadband">
+
+<ellipse fill="none" stroke="black" cx="1842.85" cy="-455.6" rx="85.13" ry="18" style=""/>
+<text text-anchor="middle" x="1842.85" y="-451.4" font-family="Times,serif" font-size="14.00" style="">Particle Broadband</text>
+</g>
+<!-- 36&#45;&gt;Particle Broadband -->
+<g id="edge84" class="edge" data-name="36-&gt;Particle Broadband">
+
+<path fill="none" stroke="black" d="M1712.56,-444.83C1718.54,-445.33 1733.61,-446.58 1751.44,-448.07" style=""/>
+<polygon fill="black" stroke="black" points="1751.07,-451.55 1761.33,-448.89 1751.66,-444.57 1751.07,-451.55" style=""/>
+</g>
+<!-- Crystal Silicon -->
+<g id="node72" class="node" pointer-events="visible" data-name="Crystal Silicon">
+
+<ellipse fill="none" stroke="black" cx="1546.86" cy="-488.6" rx="68.92" ry="18" style=""/>
+<text text-anchor="middle" x="1546.86" y="-484.4" font-family="Times,serif" font-size="14.00" style="">Crystal Silicon</text>
+</g>
+<!-- Crystal Silicon&#45;&gt;36 -->
+<g id="edge82" class="edge" data-name="Crystal Silicon-&gt;36">
+
+<path fill="none" stroke="black" d="M1604.67,-478.36C1625.23,-474.03 1648.49,-468.39 1669.2,-461.6 1678.01,-458.71 1687.54,-454.52 1694.93,-451.03" style=""/>
+<polygon fill="black" stroke="black" points="1696.29,-454.26 1703.71,-446.7 1693.19,-447.98 1696.29,-454.26" style=""/>
+</g>
+<!-- 55 -->
+<g id="node99" class="node" pointer-events="visible" data-name="55">
+
+<ellipse fill="black" stroke="black" cx="1976.89" cy="-690.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Particle Broadband&#45;&gt;55 -->
+<g id="edge121" class="edge" data-name="Particle Broadband-&gt;55">
+
+<path fill="none" stroke="black" d="M1868.13,-473.1C1889.42,-489.7 1919.65,-516.52 1937.29,-546.6 1962.26,-589.19 1971.45,-648.26 1974.51,-675.6" style=""/>
+<polygon fill="black" stroke="black" points="1971,-675.64 1975.46,-685.25 1977.97,-674.96 1971,-675.64" style=""/>
+</g>
+<!-- 37 -->
+<g id="node74" class="node" pointer-events="visible" data-name="37">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-642.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- 37&#45;&gt;Crystal Silicon -->
+<g id="edge86" class="edge" data-name="37-&gt;Crystal Silicon">
+
+<path fill="none" stroke="black" d="M1385.81,-638.79C1385.51,-621.61 1386.66,-550.69 1424.53,-515.6 1436.36,-504.64 1451.63,-497.77 1467.31,-493.55" style=""/>
+<polygon fill="black" stroke="black" points="1467.78,-497.04 1476.73,-491.37 1466.2,-490.22 1467.78,-497.04" style=""/>
+</g>
+<!-- High&#45;Purity Silicon -->
+<g id="node75" class="node" pointer-events="visible" data-name="High-Purity Silicon">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-770.6" rx="86.91" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-766.4" font-family="Times,serif" font-size="14.00" style="">High-Purity Silicon</text>
+</g>
+<!-- High&#45;Purity Silicon&#45;&gt;37 -->
+<g id="edge85" class="edge" data-name="High-Purity Silicon-&gt;37">
+
+<path fill="none" stroke="black" d="M1265.02,-754.74C1290.49,-743.79 1322.21,-727.27 1345.33,-705.6 1360.36,-691.5 1371.73,-670.29 1378.11,-656.44" style=""/>
+<polygon fill="black" stroke="black" points="1381.31,-657.85 1382.06,-647.28 1374.88,-655.08 1381.31,-657.85" style=""/>
+</g>
+<!-- High&#45;Purity Silicon&#45;&gt;53 -->
+<g id="edge113" class="edge" data-name="High-Purity Silicon-&gt;53">
+
+<path fill="none" stroke="black" d="M1305.02,-775.61C1319.96,-779.93 1334.27,-786.82 1345.33,-797.6 1365.73,-817.49 1378.05,-904.6 1382.27,-939.78" style=""/>
+<polygon fill="black" stroke="black" points="1378.75,-939.73 1383.36,-949.26 1385.7,-938.93 1378.75,-939.73" style=""/>
+</g>
+<!-- High&#45;Purity Silicon&#45;&gt;80 -->
+<g id="edge170" class="edge" data-name="High-Purity Silicon-&gt;80">
+
+<path fill="none" stroke="black" d="M1257.48,-753.86C1282.59,-741.52 1316.76,-723.78 1345.33,-705.6 1382.58,-681.89 1383.33,-661.49 1424.53,-645.6 1521.56,-608.17 1650.7,-615.41 1693.41,-619.15" style=""/>
+<polygon fill="black" stroke="black" points="1693.08,-622.64 1703.37,-620.12 1693.75,-615.67 1693.08,-622.64" style=""/>
+</g>
+<!-- Plane Filter -->
+<g id="node77" class="node" pointer-events="visible" data-name="Plane Filter">
+
+<ellipse fill="none" stroke="black" cx="2148.23" cy="-749.6" rx="55.65" ry="18" style=""/>
+<text text-anchor="middle" x="2148.23" y="-745.4" font-family="Times,serif" font-size="14.00" style="">Plane Filter</text>
+</g>
+<!-- 38&#45;&gt;Plane Filter -->
+<g id="edge89" class="edge" data-name="38-&gt;Plane Filter">
+
+<path fill="none" stroke="black" d="M1980.83,-736.83C1993.03,-737.76 2041,-741.45 2082.32,-744.62" style=""/>
+<polygon fill="black" stroke="black" points="2082.02,-748.1 2092.25,-745.38 2082.55,-741.12 2082.02,-748.1" style=""/>
+</g>
+<!-- 52 -->
+<g id="node93" class="node" pointer-events="visible" data-name="52">
+
+<ellipse fill="black" stroke="black" cx="2428.92" cy="-841.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Plane Filter&#45;&gt;52 -->
+<g id="edge111" class="edge" data-name="Plane Filter-&gt;52">
+
+<path fill="none" stroke="black" d="M2189.04,-762.22C2214.97,-770.48 2249.51,-781.56 2279.96,-791.6 2329.5,-807.93 2388.14,-827.95 2414.23,-836.9" style=""/>
+<polygon fill="black" stroke="black" points="2413.08,-840.2 2423.67,-840.14 2415.35,-833.58 2413.08,-840.2" style=""/>
+</g>
+<!-- Deuterium -->
+<g id="node79" class="node" pointer-events="visible" data-name="Deuterium">
+
+<ellipse fill="none" stroke="black" cx="474.28" cy="-1071.6" rx="52.17" ry="18" style=""/>
+<text text-anchor="middle" x="474.28" y="-1067.4" font-family="Times,serif" font-size="14.00" style="">Deuterium</text>
+</g>
+<!-- 40&#45;&gt;Deuterium -->
+<g id="edge91" class="edge" data-name="40-&gt;Deuterium">
+
+<path fill="none" stroke="black" d="M358.87,-928.29C359.9,-943.8 365.86,-1004.46 397.27,-1038.6 403.99,-1045.91 412.62,-1051.67 421.63,-1056.2" style=""/>
+<polygon fill="black" stroke="black" points="419.94,-1059.28 430.5,-1060.17 422.81,-1052.89 419.94,-1059.28" style=""/>
+</g>
+<!-- Deuterium&#45;&gt;41 -->
+<g id="edge93" class="edge" data-name="Deuterium-&gt;41">
+
+<path fill="none" stroke="black" d="M526.43,-1073.29C574.71,-1074.74 649.13,-1076.6 713.72,-1076.6 713.72,-1076.6 713.72,-1076.6 839.55,-1076.6 1082.08,-1076.6 1141.39,-1038.6 1383.93,-1038.6 1383.93,-1038.6 1383.93,-1038.6 1709.8,-1038.6 1806.09,-1038.6 1921.93,-1034.62 1961.69,-1033.15" style=""/>
+<polygon fill="black" stroke="black" points="1961.63,-1036.65 1971.49,-1032.77 1961.37,-1029.66 1961.63,-1036.65" style=""/>
+</g>
+<!-- Deuterium&#45;&gt;104 -->
+<g id="edge206" class="edge" data-name="Deuterium-&gt;104">
+
+<path fill="none" stroke="black" d="M501.85,-1087.25C559.6,-1121.98 699.33,-1209.92 798.95,-1304.6 839.79,-1343.42 831.13,-1372.55 878.15,-1403.6 1009.78,-1490.51 1062.37,-1498.6 1220.1,-1498.6 1220.1,-1498.6 1220.1,-1498.6 1385.93,-1498.6 1633.65,-1498.6 1905.63,-1327.4 1964.33,-1288.43" style=""/>
+<polygon fill="black" stroke="black" points="1965.94,-1291.56 1972.28,-1283.07 1962.03,-1285.76 1965.94,-1291.56" style=""/>
+</g>
+<!-- Deuteron Fuel Rod -->
+<g id="node82" class="node" pointer-events="visible" data-name="Deuteron Fuel Rod">
+
+<ellipse fill="none" stroke="black" cx="2668.85" cy="-999.6" rx="85.12" ry="18" style=""/>
+<text text-anchor="middle" x="2668.85" y="-995.4" font-family="Times,serif" font-size="14.00" style="">Deuteron Fuel Rod</text>
+</g>
+<!-- 41&#45;&gt;Deuteron Fuel Rod -->
+<g id="edge95" class="edge" data-name="41-&gt;Deuteron Fuel Rod">
+
+<path fill="none" stroke="black" d="M1980.97,-1032.45C2018.75,-1030.65 2394.99,-1012.65 2574.06,-1004.09" style=""/>
+<polygon fill="black" stroke="black" points="2573.97,-1007.59 2583.79,-1003.62 2573.63,-1000.6 2573.97,-1007.59" style=""/>
+</g>
+<!-- Super&#45;Magnetic Ring -->
+<g id="node81" class="node" pointer-events="visible" data-name="Super-Magnetic Ring">
+
+<ellipse fill="none" stroke="black" cx="1842.85" cy="-1121.6" rx="94.39" ry="18" style=""/>
+<text text-anchor="middle" x="1842.85" y="-1117.4" font-family="Times,serif" font-size="14.00" style="">Super-Magnetic Ring</text>
+</g>
+<!-- Super&#45;Magnetic Ring&#45;&gt;41 -->
+<g id="edge94" class="edge" data-name="Super-Magnetic Ring-&gt;41">
+
+<path fill="none" stroke="black" d="M1869.93,-1104.02C1898.33,-1084.88 1942.52,-1055.09 1963.73,-1040.8" style=""/>
+<polygon fill="black" stroke="black" points="1965.68,-1043.71 1972.01,-1035.21 1961.76,-1037.9 1965.68,-1043.71" style=""/>
+</g>
+<!-- 83 -->
+<g id="node131" class="node" pointer-events="visible" data-name="83">
+
+<ellipse fill="black" stroke="black" cx="2881.67" cy="-909.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Deuteron Fuel Rod&#45;&gt;83 -->
+<g id="edge177" class="edge" data-name="Deuteron Fuel Rod-&gt;83">
+
+<path fill="none" stroke="black" d="M2708.03,-983.3C2755.99,-962.83 2835.82,-928.75 2867.31,-915.3" style=""/>
+<polygon fill="black" stroke="black" points="2868.64,-918.54 2876.47,-911.4 2865.9,-912.1 2868.64,-918.54" style=""/>
+</g>
+<!-- 42 -->
+<g id="node83" class="node" pointer-events="visible" data-name="42">
+
+<ellipse fill="black" stroke="black" cx="1976.89" cy="-903.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Annihilation Constraint Sphere -->
+<g id="node86" class="node" pointer-events="visible" data-name="Annihilation Constraint Sphere">
+
+<ellipse fill="none" stroke="black" cx="2148.23" cy="-606.6" rx="131.97" ry="18" style=""/>
+<text text-anchor="middle" x="2148.23" y="-602.4" font-family="Times,serif" font-size="14.00" style="">Annihilation Constraint Sphere</text>
+</g>
+<!-- 42&#45;&gt;Annihilation Constraint Sphere -->
+<g id="edge98" class="edge" data-name="42-&gt;Annihilation Constraint Sphere">
+
+<path fill="none" stroke="black" d="M1978.35,-899.97C1981.27,-877.29 1997.73,-754.8 2016.49,-722.6 2038.96,-684.04 2078.76,-651.5 2108.57,-630.79" style=""/>
+<polygon fill="black" stroke="black" points="2110.3,-633.84 2116.61,-625.33 2106.37,-628.05 2110.3,-633.84" style=""/>
+</g>
+<!-- Particle Container -->
+<g id="node84" class="node" pointer-events="visible" data-name="Particle Container">
+
+<ellipse fill="none" stroke="black" cx="1842.85" cy="-952.6" rx="81.05" ry="18" style=""/>
+<text text-anchor="middle" x="1842.85" y="-948.4" font-family="Times,serif" font-size="14.00" style="">Particle Container</text>
+</g>
+<!-- Particle Container&#45;&gt;42 -->
+<g id="edge96" class="edge" data-name="Particle Container-&gt;42">
+
+<path fill="none" stroke="black" d="M1898.46,-939.17C1911.4,-935.35 1925,-930.79 1937.29,-925.6 1946.69,-921.63 1956.68,-915.89 1964.14,-911.27" style=""/>
+<polygon fill="black" stroke="black" points="1965.78,-914.38 1972.28,-906.02 1961.98,-908.5 1965.78,-914.38" style=""/>
+</g>
+<!-- Particle Container&#45;&gt;104 -->
+<g id="edge204" class="edge" data-name="Particle Container-&gt;104">
+
+<path fill="none" stroke="black" d="M1858.98,-970.6C1879.85,-996.38 1917.16,-1046.08 1937.29,-1094.6 1962.28,-1154.83 1971.7,-1232.97 1974.69,-1265.43" style=""/>
+<polygon fill="black" stroke="black" points="1971.2,-1265.72 1975.52,-1275.4 1978.17,-1265.14 1971.2,-1265.72" style=""/>
+</g>
+<!-- Processor -->
+<g id="node85" class="node" pointer-events="visible" data-name="Processor">
+
+<ellipse fill="none" stroke="black" cx="1842.85" cy="-898.6" rx="48.67" ry="18" style=""/>
+<text text-anchor="middle" x="1842.85" y="-894.4" font-family="Times,serif" font-size="14.00" style="">Processor</text>
+</g>
+<!-- Processor&#45;&gt;42 -->
+<g id="edge97" class="edge" data-name="Processor-&gt;42">
+
+<path fill="none" stroke="black" d="M1891.52,-900.41C1916.3,-901.34 1944.84,-902.42 1961.56,-903.06" style=""/>
+<polygon fill="black" stroke="black" points="1961.36,-906.55 1971.48,-903.43 1961.62,-899.56 1961.36,-906.55" style=""/>
+</g>
+<!-- Processor&#45;&gt;52 -->
+<g id="edge110" class="edge" data-name="Processor-&gt;52">
+
+<path fill="none" stroke="black" d="M1890.17,-894.08C2012.84,-882.11 2341.72,-850.01 2413.82,-842.98" style=""/>
+<polygon fill="black" stroke="black" points="2413.8,-846.5 2423.41,-842.04 2413.12,-839.53 2413.8,-846.5" style=""/>
+</g>
+<!-- Processor&#45;&gt;55 -->
+<g id="edge120" class="edge" data-name="Processor-&gt;55">
+
+<path fill="none" stroke="black" d="M1890.9,-894.94C1907.66,-891.32 1925.32,-884.45 1937.29,-871.6 1959.86,-847.36 1971.11,-744.77 1974.64,-705.75" style=""/>
+<polygon fill="black" stroke="black" points="1978.12,-706.12 1975.48,-695.86 1971.14,-705.53 1978.12,-706.12" style=""/>
+</g>
+<!-- 81 -->
+<g id="node129" class="node" pointer-events="visible" data-name="81">
+
+<ellipse fill="black" stroke="black" cx="1976.89" cy="-839.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Processor&#45;&gt;81 -->
+<g id="edge174" class="edge" data-name="Processor-&gt;81">
+
+<path fill="none" stroke="black" d="M1886.2,-890.28C1902.73,-886.04 1921.47,-879.97 1937.29,-871.6 1947.96,-865.95 1958.39,-857.04 1965.72,-850.05" style=""/>
+<polygon fill="black" stroke="black" points="1968.08,-852.64 1972.64,-843.07 1963.11,-847.71 1968.08,-852.64" style=""/>
+</g>
+<!-- Annihilation Constraint Sphere&#45;&gt;44 -->
+<g id="edge101" class="edge" data-name="Annihilation Constraint Sphere-&gt;44">
+
+<path fill="none" stroke="black" d="M2216.69,-590.87C2282.95,-575.41 2379.08,-552.99 2414.32,-544.77" style=""/>
+<polygon fill="black" stroke="black" points="2414.76,-548.26 2423.71,-542.58 2413.17,-541.45 2414.76,-548.26" style=""/>
+</g>
+<!-- Antimatter Fuel Rod -->
+<g id="node89" class="node" pointer-events="visible" data-name="Antimatter Fuel Rod">
+
+<ellipse fill="none" stroke="black" cx="2668.85" cy="-541.6" rx="90.93" ry="18" style=""/>
+<text text-anchor="middle" x="2668.85" y="-537.4" font-family="Times,serif" font-size="14.00" style="">Antimatter Fuel Rod</text>
+</g>
+<!-- 44&#45;&gt;Antimatter Fuel Rod -->
+<g id="edge103" class="edge" data-name="44-&gt;Antimatter Fuel Rod">
+
+<path fill="none" stroke="black" d="M2432.93,-541.6C2447.18,-541.6 2509.54,-541.6 2566.43,-541.6" style=""/>
+<polygon fill="black" stroke="black" points="2566.21,-545.1 2576.21,-541.6 2566.21,-538.1 2566.21,-545.1" style=""/>
+</g>
+<!-- Antimatter -->
+<g id="node88" class="node" pointer-events="visible" data-name="Antimatter">
+
+<ellipse fill="none" stroke="black" cx="2148.23" cy="-476.6" rx="52.74" ry="18" style=""/>
+<text text-anchor="middle" x="2148.23" y="-472.4" font-family="Times,serif" font-size="14.00" style="">Antimatter</text>
+</g>
+<!-- Antimatter&#45;&gt;44 -->
+<g id="edge99" class="edge" data-name="Antimatter-&gt;44">
+
+<path fill="none" stroke="black" d="M2192.47,-486.68C2256.74,-501.67 2374.19,-529.07 2414.17,-538.39" style=""/>
+<polygon fill="black" stroke="black" points="2413.15,-541.75 2423.68,-540.61 2414.74,-534.93 2413.15,-541.75" style=""/>
+</g>
+<!-- Antimatter&#45;&gt;75 -->
+<g id="edge162" class="edge" data-name="Antimatter-&gt;75">
+
+<path fill="none" stroke="black" d="M2201.12,-478.26C2294.48,-481.11 2496.97,-486.6 2667.85,-486.6 2667.85,-486.6 2667.85,-486.6 2882.67,-486.6 3026.04,-486.6 3175.88,-598.99 3217.21,-632.37" style=""/>
+<polygon fill="black" stroke="black" points="3214.93,-635.02 3224.87,-638.68 3219.38,-629.62 3214.93,-635.02" style=""/>
+</g>
+<!-- 50&#45;&gt;Circuit Board -->
+<g id="edge106" class="edge" data-name="50-&gt;Circuit Board">
+
+<path fill="none" stroke="black" d="M842.39,-1321.89C867.11,-1324.42 1047,-1342.86 1149.35,-1353.35" style=""/>
+<polygon fill="black" stroke="black" points="1148.71,-1356.8 1159.01,-1354.34 1149.42,-1349.84 1148.71,-1356.8" style=""/>
+</g>
+<!-- 51&#45;&gt;Processor -->
+<g id="edge109" class="edge" data-name="51-&gt;Processor">
+
+<path fill="none" stroke="black" d="M1711.09,-974.72C1715.2,-965.93 1728.82,-939.19 1748.4,-925.6 1759.67,-917.78 1773.2,-912.2 1786.42,-908.23" style=""/>
+<polygon fill="black" stroke="black" points="1787.2,-911.65 1795.93,-905.66 1785.37,-904.89 1787.2,-911.65" style=""/>
+</g>
+<!-- Microcrystalline Component -->
+<g id="node92" class="node" pointer-events="visible" data-name="Microcrystalline Component">
+
+<ellipse fill="none" stroke="black" cx="1546.86" cy="-954.6" rx="122.17" ry="18" style=""/>
+<text text-anchor="middle" x="1546.86" y="-950.4" font-family="Times,serif" font-size="14.00" style="">Microcrystalline Component</text>
+</g>
+<!-- Microcrystalline Component&#45;&gt;51 -->
+<g id="edge108" class="edge" data-name="Microcrystalline Component-&gt;51">
+
+<path fill="none" stroke="black" d="M1635.79,-967.24C1658.39,-970.49 1680.13,-973.62 1693.7,-975.57" style=""/>
+<polygon fill="black" stroke="black" points="1692.98,-979.01 1703.38,-976.96 1693.98,-972.08 1692.98,-979.01" style=""/>
+</g>
+<!-- Quantum Chip -->
+<g id="node94" class="node" pointer-events="visible" data-name="Quantum Chip">
+
+<ellipse fill="none" stroke="black" cx="2668.85" cy="-841.6" rx="68.34" ry="18" style=""/>
+<text text-anchor="middle" x="2668.85" y="-837.4" font-family="Times,serif" font-size="14.00" style="">Quantum Chip</text>
+</g>
+<!-- 52&#45;&gt;Quantum Chip -->
+<g id="edge112" class="edge" data-name="52-&gt;Quantum Chip">
+
+<path fill="none" stroke="black" d="M2432.93,-841.6C2449.09,-841.6 2527.11,-841.6 2588.87,-841.6" style=""/>
+<polygon fill="black" stroke="black" points="2588.68,-845.1 2598.68,-841.6 2588.68,-838.1 2588.68,-845.1" style=""/>
+</g>
+<!-- Quantum Chip&#45;&gt;83 -->
+<g id="edge178" class="edge" data-name="Quantum Chip-&gt;83">
+
+<path fill="none" stroke="black" d="M2713.28,-855.61C2761.56,-871.18 2836.75,-895.43 2867.2,-905.25" style=""/>
+<polygon fill="black" stroke="black" points="2865.98,-908.54 2876.57,-908.28 2868.13,-901.88 2865.98,-908.54" style=""/>
+</g>
+<!-- 102 -->
+<g id="node141" class="node" pointer-events="visible" data-name="102">
+
+<ellipse fill="black" stroke="black" cx="2881.67" cy="-782.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Quantum Chip&#45;&gt;102 -->
+<g id="edge198" class="edge" data-name="Quantum Chip-&gt;102">
+
+<path fill="none" stroke="black" d="M2716.9,-828.43C2765.09,-814.95 2837.05,-794.81 2866.92,-786.45" style=""/>
+<polygon fill="black" stroke="black" points="2867.53,-789.91 2876.22,-783.85 2865.65,-783.17 2867.53,-789.91" style=""/>
+</g>
+<!-- 53&#45;&gt;Microcrystalline Component -->
+<g id="edge115" class="edge" data-name="53-&gt;Microcrystalline Component">
+
+<path fill="none" stroke="black" d="M1388.98,-954.6C1393.3,-954.6 1401.92,-954.6 1412.99,-954.6" style=""/>
+<polygon fill="black" stroke="black" points="1412.79,-958.1 1422.79,-954.6 1412.79,-951.1 1412.79,-958.1" style=""/>
+</g>
+<!-- 54&#45;&gt;Organic Crystal -->
+<g id="edge119" class="edge" data-name="54-&gt;Organic Crystal">
+
+<path fill="none" stroke="black" d="M842.39,-356.61C866.16,-356.74 1033.39,-357.62 1137.21,-358.16" style=""/>
+<polygon fill="black" stroke="black" points="1137.07,-361.66 1147.09,-358.22 1137.11,-354.66 1137.07,-361.66" style=""/>
+</g>
+<!-- Log -->
+<g id="node97" class="node" pointer-events="visible" data-name="Log">
+
+<ellipse fill="none" stroke="black" cx="714.72" cy="-320.6" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="714.72" y="-316.4" font-family="Times,serif" font-size="14.00" style="">Log</text>
+</g>
+<!-- Log&#45;&gt;54 -->
+<g id="edge116" class="edge" data-name="Log-&gt;54">
+
+<path fill="none" stroke="black" d="M739.79,-327.71C764.91,-335.14 803.42,-346.52 823.8,-352.54" style=""/>
+<polygon fill="black" stroke="black" points="822.77,-355.88 833.35,-355.36 824.76,-349.17 822.77,-355.88" style=""/>
+</g>
+<!-- Plant Fuel -->
+<g id="node98" class="node" pointer-events="visible" data-name="Plant Fuel">
+
+<ellipse fill="none" stroke="black" cx="714.72" cy="-374.6" rx="50.44" ry="18" style=""/>
+<text text-anchor="middle" x="714.72" y="-370.4" font-family="Times,serif" font-size="14.00" style="">Plant Fuel</text>
+</g>
+<!-- Plant Fuel&#45;&gt;54 -->
+<g id="edge117" class="edge" data-name="Plant Fuel-&gt;54">
+
+<path fill="none" stroke="black" d="M761.78,-367.79C783.84,-364.54 808.67,-360.87 823.7,-358.65" style=""/>
+<polygon fill="black" stroke="black" points="823.83,-362.16 833.21,-357.24 822.81,-355.24 823.83,-362.16" style=""/>
+</g>
+<!-- Information Matrix -->
+<g id="node100" class="node" pointer-events="visible" data-name="Information Matrix">
+
+<ellipse fill="none" stroke="black" cx="2881.67" cy="-656.6" rx="85.72" ry="18" style=""/>
+<text text-anchor="middle" x="2881.67" y="-652.4" font-family="Times,serif" font-size="14.00" style="">Information Matrix</text>
+</g>
+<!-- 55&#45;&gt;Information Matrix -->
+<g id="edge122" class="edge" data-name="55-&gt;Information Matrix">
+
+<path fill="none" stroke="black" d="M1980.81,-690.49C2025.19,-688.82 2563.58,-668.54 2785.75,-660.18" style=""/>
+<polygon fill="black" stroke="black" points="2785.67,-663.68 2795.53,-659.81 2785.41,-656.69 2785.67,-663.68" style=""/>
+</g>
+<!-- Information Matrix&#45;&gt;75 -->
+<g id="edge160" class="edge" data-name="Information Matrix-&gt;75">
+
+<path fill="none" stroke="black" d="M2965.91,-652.99C3049.88,-649.34 3172.86,-644.01 3214.19,-642.21" style=""/>
+<polygon fill="black" stroke="black" points="3214.15,-645.72 3223.99,-641.79 3213.84,-638.73 3214.15,-645.72" style=""/>
+</g>
+<!-- 57&#45;&gt;Glass -->
+<g id="edge124" class="edge" data-name="57-&gt;Glass">
+
+<path fill="none" stroke="black" d="M842.65,-916.6C851.73,-916.6 879.2,-916.6 903.66,-916.6" style=""/>
+<polygon fill="black" stroke="black" points="903.45,-920.1 913.45,-916.6 903.45,-913.1 903.45,-920.1" style=""/>
+</g>
+<!-- 58&#45;&gt;Hydrogen -->
+<g id="edge127" class="edge" data-name="58-&gt;Hydrogen">
+
+<path fill="none" stroke="black" d="M587.88,-488.67C570.48,-498.54 443.62,-519.01 354.07,-567.6 334.76,-578.08 315.79,-593.39 300.71,-606.31" style=""/>
+<polygon fill="black" stroke="black" points="298.72,-603.4 293.46,-612.59 303.31,-608.69 298.72,-603.4" style=""/>
+</g>
+<!-- 58&#45;&gt;Energetic Graphite -->
+<g id="edge128" class="edge" data-name="58-&gt;Energetic Graphite">
+
+<path fill="none" stroke="black" d="M591.93,-482.8C592.35,-453.63 596.35,-265.29 630.49,-222.6 634.7,-217.33 639.89,-212.93 645.6,-209.25" style=""/>
+<polygon fill="black" stroke="black" points="647.23,-212.35 654.29,-204.45 643.85,-206.22 647.23,-212.35" style=""/>
+</g>
+<!-- 59&#45;&gt;High&#45;Purity Silicon -->
+<g id="edge130" class="edge" data-name="59-&gt;High-Purity Silicon">
+
+<path fill="none" stroke="black" d="M1061.36,-783.35C1070.47,-782.62 1098.46,-780.37 1128.46,-777.96" style=""/>
+<polygon fill="black" stroke="black" points="1128.37,-781.48 1138.06,-777.19 1127.81,-774.5 1128.37,-781.48" style=""/>
+</g>
+<!-- 60&#45;&gt;Diamond -->
+<g id="edge132" class="edge" data-name="60-&gt;Diamond">
+
+<path fill="none" stroke="black" d="M951.6,-111.82C971.72,-105.95 1100.23,-68.52 1171.92,-47.64" style=""/>
+<polygon fill="black" stroke="black" points="1172.84,-51.01 1181.46,-44.86 1170.88,-44.29 1172.84,-51.01" style=""/>
+</g>
+<!-- 61 -->
+<g id="node105" class="node" pointer-events="visible" data-name="61">
+
+<ellipse fill="black" stroke="black" cx="1057.27" cy="-33.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- 61&#45;&gt;Diamond -->
+<g id="edge134" class="edge" data-name="61-&gt;Diamond">
+
+<path fill="none" stroke="black" d="M1061.36,-33.6C1073.92,-33.6 1122.37,-33.6 1162.47,-33.6" style=""/>
+<polygon fill="black" stroke="black" points="1162.28,-37.1 1172.28,-33.6 1162.28,-30.1 1162.28,-37.1" style=""/>
+</g>
+<!-- Kimberlite Ore -->
+<g id="node106" class="node" pointer-events="visible" data-name="Kimberlite Ore">
+
+<ellipse fill="none" stroke="black" cx="947.91" cy="-33.6" rx="69.52" ry="18" style=""/>
+<text text-anchor="middle" x="947.91" y="-29.4" font-family="Times,serif" font-size="14.00" style="">Kimberlite Ore</text>
+</g>
+<!-- Kimberlite Ore&#45;&gt;61 -->
+<g id="edge133" class="edge" data-name="Kimberlite Ore-&gt;61">
+
+<path fill="none" stroke="black" d="M1017.82,-33.6C1026.76,-33.6 1035.09,-33.6 1041.69,-33.6" style=""/>
+<polygon fill="black" stroke="black" points="1041.69,-37.1 1051.69,-33.6 1041.69,-30.1 1041.69,-37.1" style=""/>
+</g>
+<!-- 62 -->
+<g id="node107" class="node" pointer-events="visible" data-name="62">
+
+<ellipse fill="black" stroke="black" cx="1384.93" cy="-280.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- 62&#45;&gt;Crystal Silicon -->
+<g id="edge136" class="edge" data-name="62-&gt;Crystal Silicon">
+
+<path fill="none" stroke="black" d="M1386.44,-284.08C1390,-308.08 1411.29,-448.25 1424.53,-461.6 1435.94,-473.12 1451.12,-480.2 1466.85,-484.46" style=""/>
+<polygon fill="black" stroke="black" points="1465.79,-487.81 1476.32,-486.64 1467.36,-480.99 1465.79,-487.81" style=""/>
+</g>
+<!-- Fractal Silicon -->
+<g id="node108" class="node" pointer-events="visible" data-name="Fractal Silicon">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-266.6" rx="67.75" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-262.4" font-family="Times,serif" font-size="14.00" style="">Fractal Silicon</text>
+</g>
+<!-- Fractal Silicon&#45;&gt;62 -->
+<g id="edge135" class="edge" data-name="Fractal Silicon-&gt;62">
+
+<path fill="none" stroke="black" d="M1286.06,-272.13C1316.73,-274.79 1350.81,-277.73 1369.57,-279.36" style=""/>
+<polygon fill="black" stroke="black" points="1369.2,-282.84 1379.46,-280.21 1369.8,-275.86 1369.2,-282.84" style=""/>
+</g>
+<!-- 63&#45;&gt;Steel -->
+<g id="edge138" class="edge" data-name="63-&gt;Steel">
+
+<path fill="none" stroke="black" d="M842.2,-1269.61C851.68,-1266.08 884.71,-1253.77 911.17,-1243.92" style=""/>
+<polygon fill="black" stroke="black" points="912.09,-1247.31 920.24,-1240.54 909.64,-1240.75 912.09,-1247.31" style=""/>
+</g>
+<!-- 65 -->
+<g id="node110" class="node" pointer-events="visible" data-name="65">
+
+<ellipse fill="black" stroke="black" cx="838.55" cy="-564.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- 65&#45;&gt;Titanium Ingot -->
+<g id="edge140" class="edge" data-name="65-&gt;Titanium Ingot">
+
+<path fill="none" stroke="black" d="M842.65,-564.6C847.11,-564.6 856,-564.6 866.8,-564.6" style=""/>
+<polygon fill="black" stroke="black" points="866.62,-568.1 876.62,-564.6 866.62,-561.1 866.62,-568.1" style=""/>
+</g>
+<!-- Titanium Ore -->
+<g id="node111" class="node" pointer-events="visible" data-name="Titanium Ore">
+
+<ellipse fill="none" stroke="black" cx="714.72" cy="-564.6" rx="63.16" ry="18" style=""/>
+<text text-anchor="middle" x="714.72" y="-560.4" font-family="Times,serif" font-size="14.00" style="">Titanium Ore</text>
+</g>
+<!-- Titanium Ore&#45;&gt;65 -->
+<g id="edge139" class="edge" data-name="Titanium Ore-&gt;65">
+
+<path fill="none" stroke="black" d="M778.06,-564.6C795,-564.6 811.78,-564.6 823.18,-564.6" style=""/>
+<polygon fill="black" stroke="black" points="823.12,-568.1 833.12,-564.6 823.12,-561.1 823.12,-568.1" style=""/>
+</g>
+<!-- 66&#45;&gt;Titanium Alloy -->
+<g id="edge144" class="edge" data-name="66-&gt;Titanium Alloy">
+
+<path fill="none" stroke="black" d="M1061.04,-536.99C1085.07,-531.79 1260.44,-496.49 1388.53,-543.6 1396.11,-546.39 1473.24,-611.1 1516.62,-647.78" style=""/>
+<polygon fill="black" stroke="black" points="1514.28,-650.39 1524.17,-654.18 1518.8,-645.05 1514.28,-650.39" style=""/>
+</g>
+<!-- Photon Combiner -->
+<g id="node114" class="node" pointer-events="visible" data-name="Photon Combiner">
+
+<ellipse fill="none" stroke="black" cx="1546.86" cy="-1176.6" rx="79.38" ry="18" style=""/>
+<text text-anchor="middle" x="1546.86" y="-1172.4" font-family="Times,serif" font-size="14.00" style="">Photon Combiner</text>
+</g>
+<!-- 68&#45;&gt;Photon Combiner -->
+<g id="edge147" class="edge" data-name="68-&gt;Photon Combiner">
+
+<path fill="none" stroke="black" d="M1388.98,-1188.37C1398.44,-1187.66 1428.55,-1185.4 1459.89,-1183.05" style=""/>
+<polygon fill="black" stroke="black" points="1459.78,-1186.57 1469.49,-1182.33 1459.26,-1179.59 1459.78,-1186.57" style=""/>
+</g>
+<!-- Photon Combiner&#45;&gt;70 -->
+<g id="edge152" class="edge" data-name="Photon Combiner-&gt;70">
+
+<path fill="none" stroke="black" d="M1625.53,-1173.73C1641.98,-1169.51 1657.8,-1162.13 1669.2,-1149.6 1689.18,-1127.64 1703.36,-915.34 1706.92,-856.6" style=""/>
+<polygon fill="black" stroke="black" points="1710.41,-856.88 1707.51,-846.69 1703.43,-856.47 1710.41,-856.88" style=""/>
+</g>
+<!-- 69&#45;&gt;Photon Combiner -->
+<g id="edge150" class="edge" data-name="69-&gt;Photon Combiner">
+
+<path fill="none" stroke="black" d="M1388.98,-1163.85C1398.48,-1164.62 1428.8,-1167.08 1460.28,-1169.64" style=""/>
+<polygon fill="black" stroke="black" points="1459.67,-1173.11 1469.92,-1170.43 1460.24,-1166.13 1459.67,-1173.11" style=""/>
+</g>
+<!-- Solar Sail -->
+<g id="node117" class="node" pointer-events="visible" data-name="Solar Sail">
+
+<ellipse fill="none" stroke="black" cx="1842.85" cy="-844.6" rx="48.72" ry="18" style=""/>
+<text text-anchor="middle" x="1842.85" y="-840.4" font-family="Times,serif" font-size="14.00" style="">Solar Sail</text>
+</g>
+<!-- 70&#45;&gt;Solar Sail -->
+<g id="edge153" class="edge" data-name="70-&gt;Solar Sail">
+
+<path fill="none" stroke="black" d="M1712.56,-841.66C1721.88,-841.87 1753.31,-842.59 1782.85,-843.26" style=""/>
+<polygon fill="black" stroke="black" points="1782.43,-846.75 1792.51,-843.48 1782.59,-839.75 1782.43,-846.75" style=""/>
+</g>
+<!-- Solar Sail&#45;&gt;81 -->
+<g id="edge173" class="edge" data-name="Solar Sail-&gt;81">
+
+<path fill="none" stroke="black" d="M1891.52,-842.79C1916.3,-841.86 1944.84,-840.78 1961.56,-840.14" style=""/>
+<polygon fill="black" stroke="black" points="1961.62,-843.64 1971.48,-839.77 1961.36,-836.65 1961.62,-843.64" style=""/>
+</g>
+<!-- 74 -->
+<g id="node118" class="node" pointer-events="visible" data-name="74">
+
+<ellipse fill="black" stroke="black" cx="179.16" cy="-594.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- 74&#45;&gt;Hydrogen -->
+<g id="edge156" class="edge" data-name="74-&gt;Hydrogen">
+
+<path fill="none" stroke="black" d="M183.06,-595.76C189.67,-598.42 206.6,-605.21 223.57,-612.01" style=""/>
+<polygon fill="black" stroke="black" points="222.06,-615.18 232.64,-615.65 224.66,-608.68 222.06,-615.18" style=""/>
+</g>
+<!-- 74&#45;&gt;Antimatter -->
+<g id="edge155" class="edge" data-name="74-&gt;Antimatter">
+
+<path fill="none" stroke="black" d="M183.12,-593.85C214.43,-585.95 488.22,-518.6 713.72,-518.6 713.72,-518.6 713.72,-518.6 839.55,-518.6 919.16,-518.6 939.13,-512.62 1017.67,-499.6 1200.56,-469.27 1241.07,-434.33 1424.53,-407.6 1549.39,-389.41 1581.62,-388.6 1707.8,-388.6 1707.8,-388.6 1707.8,-388.6 1843.85,-388.6 1941.22,-388.6 2049.46,-430.93 2106.65,-456.88" style=""/>
+<polygon fill="black" stroke="black" points="2105.14,-460.03 2115.69,-461.04 2108.07,-453.67 2105.14,-460.03" style=""/>
+</g>
+<!-- Critical Photon -->
+<g id="node119" class="node" pointer-events="visible" data-name="Critical Photon">
+
+<ellipse fill="none" stroke="black" cx="69.78" cy="-594.6" rx="69.56" ry="18" style=""/>
+<text text-anchor="middle" x="69.78" y="-590.4" font-family="Times,serif" font-size="14.00" style="">Critical Photon</text>
+</g>
+<!-- Critical Photon&#45;&gt;74 -->
+<g id="edge154" class="edge" data-name="Critical Photon-&gt;74">
+
+<path fill="none" stroke="black" d="M139.7,-594.6C148.76,-594.6 157.2,-594.6 163.85,-594.6" style=""/>
+<polygon fill="black" stroke="black" points="163.58,-598.1 173.58,-594.6 163.58,-591.1 163.58,-598.1" style=""/>
+</g>
+<!-- Universe Matrix -->
+<g id="node122" class="node" pointer-events="visible" data-name="Universe Matrix">
+
+<ellipse fill="none" stroke="black" cx="3343.52" cy="-641.6" rx="74.69" ry="18" style=""/>
+<text text-anchor="middle" x="3343.52" y="-637.4" font-family="Times,serif" font-size="14.00" style="">Universe Matrix</text>
+</g>
+<!-- 75&#45;&gt;Universe Matrix -->
+<g id="edge163" class="edge" data-name="75-&gt;Universe Matrix">
+
+<path fill="none" stroke="black" d="M3233.1,-641.6C3237.35,-641.6 3246.14,-641.6 3256.97,-641.6" style=""/>
+<polygon fill="black" stroke="black" points="3256.88,-645.1 3266.88,-641.6 3256.88,-638.1 3256.88,-645.1" style=""/>
+</g>
+<!-- Gravity Matrix -->
+<g id="node121" class="node" pointer-events="visible" data-name="Gravity Matrix">
+
+<ellipse fill="none" stroke="black" cx="3096.63" cy="-782.6" rx="69.47" ry="18" style=""/>
+<text text-anchor="middle" x="3096.63" y="-778.4" font-family="Times,serif" font-size="14.00" style="">Gravity Matrix</text>
+</g>
+<!-- Gravity Matrix&#45;&gt;75 -->
+<g id="edge161" class="edge" data-name="Gravity Matrix-&gt;75">
+
+<path fill="none" stroke="black" d="M3114.18,-764.74C3141.82,-734.92 3196.52,-675.92 3218.67,-652.02" style=""/>
+<polygon fill="black" stroke="black" points="3221.09,-654.56 3225.32,-644.85 3215.95,-649.8 3221.09,-654.56" style=""/>
+</g>
+<!-- 79 -->
+<g id="node126" class="node" pointer-events="visible" data-name="79">
+
+<ellipse fill="black" stroke="black" cx="3229.33" cy="-776.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Gravity Matrix&#45;&gt;79 -->
+<g id="edge166" class="edge" data-name="Gravity Matrix-&gt;79">
+
+<path fill="none" stroke="black" d="M3165.28,-779.49C3183.7,-778.65 3201.88,-777.81 3213.94,-777.26" style=""/>
+<polygon fill="black" stroke="black" points="3213.9,-780.77 3223.73,-776.81 3213.58,-773.77 3213.9,-780.77" style=""/>
+</g>
+<!-- 78 -->
+<g id="node123" class="node" pointer-events="visible" data-name="78">
+
+<ellipse fill="black" stroke="black" cx="3229.33" cy="-741.6" rx="3.6" ry="3.6" style=""/>
+</g>
+<!-- Space Warper -->
+<g id="node125" class="node" pointer-events="visible" data-name="Space Warper">
+
+<ellipse fill="none" stroke="black" cx="3343.52" cy="-756.6" rx="65.41" ry="18" style=""/>
+<text text-anchor="middle" x="3343.52" y="-752.4" font-family="Times,serif" font-size="14.00" style="">Space Warper</text>
+</g>
+<!-- 78&#45;&gt;Space Warper -->
+<g id="edge165" class="edge" data-name="78-&gt;Space Warper">
+
+<path fill="none" stroke="black" d="M3233.1,-741.97C3239.28,-742.8 3255.02,-744.9 3272.7,-747.26" style=""/>
+<polygon fill="black" stroke="black" points="3272.01,-750.7 3282.39,-748.56 3272.94,-743.77 3272.01,-750.7" style=""/>
+</g>
+<!-- Graviton Lens -->
+<g id="node124" class="node" pointer-events="visible" data-name="Graviton Lens">
+
+<ellipse fill="none" stroke="black" cx="2668.85" cy="-759.6" rx="66.6" ry="18" style=""/>
+<text text-anchor="middle" x="2668.85" y="-755.4" font-family="Times,serif" font-size="14.00" style="">Graviton Lens</text>
+</g>
+<!-- Graviton Lens&#45;&gt;78 -->
+<g id="edge164" class="edge" data-name="Graviton Lens-&gt;78">
+
+<path fill="none" stroke="black" d="M2735.28,-757.49C2864.89,-753.31 3147.5,-744.21 3214.08,-742.06" style=""/>
+<polygon fill="black" stroke="black" points="3213.92,-745.57 3223.8,-741.75 3213.7,-738.57 3213.92,-745.57" style=""/>
+</g>
+<!-- Graviton Lens&#45;&gt;102 -->
+<g id="edge197" class="edge" data-name="Graviton Lens-&gt;102">
+
+<path fill="none" stroke="black" d="M2731.11,-766.28C2778.11,-771.41 2839.39,-778.1 2866.6,-781.06" style=""/>
+<polygon fill="black" stroke="black" points="2865.86,-784.5 2876.18,-782.11 2866.62,-777.55 2865.86,-784.5" style=""/>
+</g>
+<!-- 79&#45;&gt;Space Warper -->
+<g id="edge167" class="edge" data-name="79-&gt;Space Warper">
+
+<path fill="none" stroke="black" d="M3233.1,-776.11C3239.73,-774.92 3257.39,-771.78 3276.64,-768.34" style=""/>
+<polygon fill="black" stroke="black" points="3277.04,-771.83 3286.27,-766.63 3275.81,-764.94 3277.04,-771.83" style=""/>
+</g>
+<!-- Frame Material -->
+<g id="node128" class="node" pointer-events="visible" data-name="Frame Material">
+
+<ellipse fill="none" stroke="black" cx="1842.85" cy="-606.6" rx="70.66" ry="18" style=""/>
+<text text-anchor="middle" x="1842.85" y="-602.4" font-family="Times,serif" font-size="14.00" style="">Frame Material</text>
+</g>
+<!-- 80&#45;&gt;Frame Material -->
+<g id="edge171" class="edge" data-name="80-&gt;Frame Material">
+
+<path fill="none" stroke="black" d="M1712.56,-620.31C1720.07,-619.51 1741.93,-617.19 1765.58,-614.69" style=""/>
+<polygon fill="black" stroke="black" points="1765.83,-618.18 1775.4,-613.64 1765.09,-611.22 1765.83,-618.18" style=""/>
+</g>
+<!-- Frame Material&#45;&gt;81 -->
+<g id="edge172" class="edge" data-name="Frame Material-&gt;81">
+
+<path fill="none" stroke="black" d="M1875.78,-622.86C1896.38,-634.96 1922.07,-653.37 1937.29,-676.6 1968.39,-724.05 1974.51,-793.85 1975.66,-824.37" style=""/>
+<polygon fill="black" stroke="black" points="1972.15,-824.24 1975.88,-834.16 1979.15,-824.09 1972.15,-824.24" style=""/>
+</g>
+<!-- Dyson Sphere Component -->
+<g id="node130" class="node" pointer-events="visible" data-name="Dyson Sphere Component">
+
+<ellipse fill="none" stroke="black" cx="2428.92" cy="-909.6" rx="112.93" ry="18" style=""/>
+<text text-anchor="middle" x="2428.92" y="-905.4" font-family="Times,serif" font-size="14.00" style="">Dyson Sphere Component</text>
+</g>
+<!-- 81&#45;&gt;Dyson Sphere Component -->
+<g id="edge175" class="edge" data-name="81-&gt;Dyson Sphere Component">
+
+<path fill="none" stroke="black" d="M1980.76,-840.05C2007.37,-844.19 2212.5,-876.09 2335.49,-895.22" style=""/>
+<polygon fill="black" stroke="black" points="2334.84,-898.66 2345.26,-896.74 2335.92,-891.75 2334.84,-898.66" style=""/>
+</g>
+<!-- Dyson Sphere Component&#45;&gt;83 -->
+<g id="edge176" class="edge" data-name="Dyson Sphere Component-&gt;83">
+
+<path fill="none" stroke="black" d="M2542.21,-909.6C2654.69,-909.6 2817.9,-909.6 2866.51,-909.6" style=""/>
+<polygon fill="black" stroke="black" points="2866.22,-913.1 2876.22,-909.6 2866.22,-906.1 2866.22,-913.1" style=""/>
+</g>
+<!-- Small Carrier Rocket -->
+<g id="node132" class="node" pointer-events="visible" data-name="Small Carrier Rocket">
+
+<ellipse fill="none" stroke="black" cx="3096.63" cy="-909.6" rx="93.19" ry="18" style=""/>
+<text text-anchor="middle" x="3096.63" y="-905.4" font-family="Times,serif" font-size="14.00" style="">Small Carrier Rocket</text>
+</g>
+<!-- 83&#45;&gt;Small Carrier Rocket -->
+<g id="edge179" class="edge" data-name="83-&gt;Small Carrier Rocket">
+
+<path fill="none" stroke="black" d="M2885.69,-909.6C2897.85,-909.6 2944.96,-909.6 2991.48,-909.6" style=""/>
+<polygon fill="black" stroke="black" points="2991.44,-913.1 3001.44,-909.6 2991.44,-906.1 2991.44,-913.1" style=""/>
+</g>
+<!-- Electric Motor -->
+<g id="node134" class="node" pointer-events="visible" data-name="Electric Motor">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-1414.6" rx="67.73" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-1410.4" font-family="Times,serif" font-size="14.00" style="">Electric Motor</text>
+</g>
+<!-- 97&#45;&gt;Electric Motor -->
+<g id="edge183" class="edge" data-name="97-&gt;Electric Motor">
+
+<path fill="none" stroke="black" d="M1061.08,-1395.93C1071.69,-1397.18 1110.6,-1401.74 1147.28,-1406.05" style=""/>
+<polygon fill="black" stroke="black" points="1146.71,-1409.51 1157.05,-1407.2 1147.52,-1402.55 1146.71,-1409.51" style=""/>
+</g>
+<!-- Electric Motor&#45;&gt;98 -->
+<g id="edge184" class="edge" data-name="Electric Motor-&gt;98">
+
+<path fill="none" stroke="black" d="M1288.91,-1412.78C1309.17,-1409.12 1330.07,-1401.75 1345.33,-1387.6 1377.87,-1357.41 1383.37,-1301.04 1384.04,-1273.93" style=""/>
+<polygon fill="black" stroke="black" points="1387.54,-1273.99 1384.06,-1263.99 1380.54,-1273.98 1387.54,-1273.99" style=""/>
+</g>
+<!-- 98&#45;&gt;Electromagnetic Turbine -->
+<g id="edge186" class="edge" data-name="98-&gt;Electromagnetic Turbine">
+
+<path fill="none" stroke="black" d="M1388.98,-1258.07C1398.44,-1256.41 1428.55,-1251.14 1459.89,-1245.65" style=""/>
+<polygon fill="black" stroke="black" points="1460.26,-1249.14 1469.51,-1243.97 1459.06,-1242.24 1460.26,-1249.14" style=""/>
+</g>
+<!-- 99&#45;&gt;Particle Container -->
+<g id="edge190" class="edge" data-name="99-&gt;Particle Container">
+
+<path fill="none" stroke="black" d="M1712.56,-952.6C1718.42,-952.6 1732.99,-952.6 1750.34,-952.6" style=""/>
+<polygon fill="black" stroke="black" points="1749.94,-956.1 1759.94,-952.6 1749.94,-949.1 1749.94,-956.1" style=""/>
+</g>
+<!-- 100&#45;&gt;Particle Container -->
+<g id="edge193" class="edge" data-name="100-&gt;Particle Container">
+
+<path fill="none" stroke="black" d="M842.38,-870.62C872.34,-870.85 1134.19,-873.27 1345.33,-889.6 1489.83,-900.77 1525.5,-908.77 1669.2,-927.6 1700.22,-931.67 1734.32,-936.52 1763.96,-940.87" style=""/>
+<polygon fill="black" stroke="black" points="1763.18,-944.29 1773.59,-942.28 1764.2,-937.36 1763.18,-944.29" style=""/>
+</g>
+<!-- Unipolar Magnet -->
+<g id="node138" class="node" pointer-events="visible" data-name="Unipolar Magnet">
+
+<ellipse fill="none" stroke="black" cx="714.72" cy="-862.6" rx="77.05" ry="18" style=""/>
+<text text-anchor="middle" x="714.72" y="-858.4" font-family="Times,serif" font-size="14.00" style="">Unipolar Magnet</text>
+</g>
+<!-- Unipolar Magnet&#45;&gt;100 -->
+<g id="edge191" class="edge" data-name="Unipolar Magnet-&gt;100">
+
+<path fill="none" stroke="black" d="M789.4,-867.44C802.24,-868.28 814.29,-869.07 823.12,-869.65" style=""/>
+<polygon fill="black" stroke="black" points="822.81,-873.14 833.01,-870.3 823.26,-866.15 822.81,-873.14" style=""/>
+</g>
+<!-- 101&#45;&gt;Graviton Lens -->
+<g id="edge196" class="edge" data-name="101-&gt;Graviton Lens">
+
+<path fill="none" stroke="black" d="M2432.93,-759.6C2449.24,-759.6 2528.58,-759.6 2590.6,-759.6" style=""/>
+<polygon fill="black" stroke="black" points="2590.45,-763.1 2600.45,-759.6 2590.45,-756.1 2590.45,-763.1" style=""/>
+</g>
+<!-- Strange Matter -->
+<g id="node140" class="node" pointer-events="visible" data-name="Strange Matter">
+
+<ellipse fill="none" stroke="black" cx="2148.23" cy="-818.6" rx="68.88" ry="18" style=""/>
+<text text-anchor="middle" x="2148.23" y="-814.4" font-family="Times,serif" font-size="14.00" style="">Strange Matter</text>
+</g>
+<!-- Strange Matter&#45;&gt;101 -->
+<g id="edge195" class="edge" data-name="Strange Matter-&gt;101">
+
+<path fill="none" stroke="black" d="M2202.63,-807.29C2268.36,-793.38 2375.93,-770.61 2414.02,-762.54" style=""/>
+<polygon fill="black" stroke="black" points="2414.58,-766 2423.64,-760.51 2413.13,-759.15 2414.58,-766" style=""/>
+</g>
+<!-- 102&#45;&gt;Gravity Matrix -->
+<g id="edge199" class="edge" data-name="102-&gt;Gravity Matrix">
+
+<path fill="none" stroke="black" d="M2885.69,-782.6C2899.96,-782.6 2962.31,-782.6 3015.39,-782.6" style=""/>
+<polygon fill="black" stroke="black" points="3015.39,-786.1 3025.39,-782.6 3015.39,-779.1 3015.39,-786.1" style=""/>
+</g>
+<!-- 103&#45;&gt;Super&#45;Magnetic Ring -->
+<g id="edge203" class="edge" data-name="103-&gt;Super-Magnetic Ring">
+
+<path fill="none" stroke="black" d="M1712.56,-1156.85C1721.19,-1154.49 1748.75,-1146.98 1776.22,-1139.49" style=""/>
+<polygon fill="black" stroke="black" points="1776.93,-1142.93 1785.65,-1136.92 1775.08,-1136.17 1776.93,-1142.93" style=""/>
+</g>
+<!-- 104&#45;&gt;Strange Matter -->
+<g id="edge207" class="edge" data-name="104-&gt;Strange Matter">
+
+<path fill="none" stroke="black" d="M1979.06,-1277.4C1991.63,-1243.12 2101.71,-942.78 2136.64,-847.48" style=""/>
+<polygon fill="black" stroke="black" points="2139.84,-848.93 2139.99,-838.33 2133.27,-846.52 2139.84,-848.93" style=""/>
+</g>
+<!-- Proliferator Mk.I -->
+<g id="node145" class="node" pointer-events="visible" data-name="Proliferator Mk.I">
+
+<ellipse fill="none" stroke="black" cx="474.28" cy="-79.6" rx="77.02" ry="18" style=""/>
+<text text-anchor="middle" x="474.28" y="-75.4" font-family="Times,serif" font-size="14.00" style="">Proliferator Mk.I</text>
+</g>
+<!-- 106&#45;&gt;Proliferator Mk.I -->
+<g id="edge209" class="edge" data-name="106-&gt;Proliferator Mk.I">
+
+<path fill="none" stroke="black" d="M361.73,-86.41C366.42,-86.13 376.08,-85.54 387.84,-84.82" style=""/>
+<polygon fill="black" stroke="black" points="387.86,-88.32 397.63,-84.22 387.44,-81.34 387.86,-88.32" style=""/>
+</g>
+<!-- Proliferator Mk.I&#45;&gt;107 -->
+<g id="edge210" class="edge" data-name="Proliferator Mk.I-&gt;107">
+
+<path fill="none" stroke="black" d="M551.79,-79.6C598.56,-79.6 659.59,-79.6 713.72,-79.6 713.72,-79.6 713.72,-79.6 1058.27,-79.6 1178.66,-79.6 1324.07,-79.6 1369.6,-79.6" style=""/>
+<polygon fill="black" stroke="black" points="1369.51,-83.1 1379.51,-79.6 1369.51,-76.1 1369.51,-83.1" style=""/>
+</g>
+<!-- Proliferator Mk.II -->
+<g id="node147" class="node" pointer-events="visible" data-name="Proliferator Mk.II">
+
+<ellipse fill="none" stroke="black" cx="1546.86" cy="-87.6" rx="80.45" ry="18" style=""/>
+<text text-anchor="middle" x="1546.86" y="-83.4" font-family="Times,serif" font-size="14.00" style="">Proliferator Mk.II</text>
+</g>
+<!-- 107&#45;&gt;Proliferator Mk.II -->
+<g id="edge212" class="edge" data-name="107-&gt;Proliferator Mk.II">
+
+<path fill="none" stroke="black" d="M1388.98,-79.75C1398.13,-80.21 1426.6,-81.63 1456.81,-83.15" style=""/>
+<polygon fill="black" stroke="black" points="1456.32,-86.63 1466.48,-83.63 1456.67,-79.63 1456.32,-86.63" style=""/>
+</g>
+<!-- Proliferator Mk.II&#45;&gt;108 -->
+<g id="edge213" class="edge" data-name="Proliferator Mk.II-&gt;108">
+
+<path fill="none" stroke="black" d="M1627.36,-87.6C1652.79,-87.6 1678.28,-87.6 1693.55,-87.6" style=""/>
+<polygon fill="black" stroke="black" points="1693.21,-91.1 1703.21,-87.6 1693.21,-84.1 1693.21,-91.1" style=""/>
+</g>
+<!-- Proliferator Mk.III -->
+<g id="node149" class="node" pointer-events="visible" data-name="Proliferator Mk.III">
+
+<ellipse fill="none" stroke="black" cx="1842.85" cy="-87.6" rx="83.38" ry="18" style=""/>
+<text text-anchor="middle" x="1842.85" y="-83.4" font-family="Times,serif" font-size="14.00" style="">Proliferator Mk.III</text>
+</g>
+<!-- 108&#45;&gt;Proliferator Mk.III -->
+<g id="edge215" class="edge" data-name="108-&gt;Proliferator Mk.III">
+
+<path fill="none" stroke="black" d="M1712.56,-87.6C1718.15,-87.6 1731.68,-87.6 1747.98,-87.6" style=""/>
+<polygon fill="black" stroke="black" points="1747.53,-91.1 1757.53,-87.6 1747.53,-84.1 1747.53,-91.1" style=""/>
+</g>
+<!-- Foundation -->
+<g id="node151" class="node" pointer-events="visible" data-name="Foundation">
+
+<ellipse fill="none" stroke="black" cx="1221.1" cy="-1306.6" rx="55.06" ry="18" style=""/>
+<text text-anchor="middle" x="1221.1" y="-1302.4" font-family="Times,serif" font-size="14.00" style="">Foundation</text>
+</g>
+<!-- 112&#45;&gt;Foundation -->
+<g id="edge218" class="edge" data-name="112-&gt;Foundation">
+
+<path fill="none" stroke="black" d="M1061.08,-1284.98C1072.8,-1286.57 1118.99,-1292.85 1158.6,-1298.24" style=""/>
+<polygon fill="black" stroke="black" points="1157.94,-1301.68 1168.33,-1299.56 1158.89,-1294.75 1157.94,-1301.68" style=""/>
+</g>
+<!-- 115&#45;&gt;Hydrogen -->
+<g id="edge221" class="edge" data-name="115-&gt;Hydrogen">
+
+<path fill="none" stroke="black" d="M353.94,-755.19C343.56,-744.53 305.96,-690.71 284.57,-656.92" style=""/>
+<polygon fill="black" stroke="black" points="287.8,-655.49 279.55,-648.85 281.86,-659.19 287.8,-655.49" style=""/>
+</g>
+<!-- 115&#45;&gt;Deuterium -->
+<g id="edge220" class="edge" data-name="115-&gt;Deuterium">
+
+<path fill="none" stroke="black" d="M358.69,-760.26C358.94,-789.98 361.9,-991.93 397.27,-1038.6 403.14,-1046.35 411.21,-1052.3 419.9,-1056.87" style=""/>
+<polygon fill="black" stroke="black" points="418.37,-1060.02 428.92,-1061 421.28,-1053.66 418.37,-1060.02" style=""/>
+</g>
+<!-- 121&#45;&gt;Refined Oil -->
+<g id="edge225" class="edge" data-name="121-&gt;Refined Oil">
+
+<path fill="none" stroke="black" d="M361.06,-406.48C367.91,-403.65 388.46,-402.11 410.14,-401.88" style=""/>
+<polygon fill="black" stroke="black" points="410,-405.38 420,-401.88 410,-398.38 410,-405.38" style=""/>
+</g>
+</g>
+</svg>
