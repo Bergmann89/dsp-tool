@@ -1,0 +1,12 @@
+[package]
+name = "dsp-tool"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+env_logger = "0.10"
+itertools = "0.10"
+log = "0.4"
+rlua = "0.19"
+structopt = "0.3"
+thiserror = "1.0"
