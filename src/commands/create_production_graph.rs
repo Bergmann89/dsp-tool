@@ -145,6 +145,15 @@ fn parse_ids(data: &Data, items: &[String], items_only: bool) -> Result<Vec<usiz
 
                     continue;
                 }
+                "advanced" if !items_only => {
+                    ret.extend(
+                        ADVANCED_RECIPES
+                            .iter()
+                            .filter_map(|name| data.recipes_by_name.get(*name).map(|rid| rid.0)),
+                    );
+
+                    continue;
+                }
                 "material" => ItemType::Material,
                 "matrix" => ItemType::Matrix,
                 "product" => ItemType::Product,
@@ -197,3 +206,15 @@ fn resolve_item_dependencies(
         }
     }
 }
+
+const ADVANCED_RECIPES: &[&str] = &[
+    "Casimir Crystal (Advanced)",
+    "Organic Crystal (Original)",
+    "Crystal Silicon (Advanced)",
+    "Photon Combiner (Advanced)",
+    "Space Warper (Advanced)",
+    "Particle Container (Advanced)",
+    "Graphene (Advanced)",
+    "Carbon Nanotube (Advanced)",
+    "Diamond (Advanced)",
+];
